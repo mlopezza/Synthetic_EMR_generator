@@ -1,0 +1,5372 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 9
+/Kids [ 4 0 R 13 0 R 17 0 R 21 0 R 25 0 R 29 0 R 33 0 R 37 0 R 41 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/CA 0.65
+>>
+/gRLs0-0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F1-1 8 0 R
+/F2 9 0 R
+/F2-0 10 0 R
+/F2-1 11 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 7326
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 664.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 23 Tm 27.4435 0 Td 12 TL /F2 13 Tf 0 0 0 rg (Sample Lakeview General Hospital \226) Tj T* -23.4585 0 Td (Emergency Department & Intermediate Care) Tj T* 123.539 0 Td (Unit) Tj T* -127.524 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 24.84 0 Td (COMPLETE MEDICAL RECORD) Tj T* -24.84 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 39.088 0 Td (200 Lakeview Boulevard | Harbour District, ON M5G 2C4) Tj T* -39.088 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 56.484 0 Td (Date: February 12, 2026) Tj T* -56.484 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 65.528 0 Td (Tel: \(555\) 340-4800 | Fax: \(555\) 340-3485) Tj T* -65.528 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 18 cm
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 0 m 504 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 654.8 cm
+Q
+q
+1 0 0 1 60 632.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (SECTION 1 \226 CUMULATIVE PATIENT PROFILE \(CPP\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 538.8 cm
+q
+.933333 .956863 .984314 rg
+n 0 90 504 -90 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 76 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Full Name:) Tj /F1 8 Tf ( Maria Guadalupe Torres M\351ndez) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 76 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Date of Birth:) Tj /F1 8 Tf ( June 22, 1991 \(Age: 34\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 58 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Health Card \(OHIP\):) Tj /F1 8 Tf ( 5812-234-901 KM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 58 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Sex / Gender:) Tj /F1 8 Tf ( Female / Woman) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Address:) Tj /F1 8 Tf ( 77 Parliament Street Apt 3B, Toronto, ON M5A 2Y8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Phone:) Tj /F1 8 Tf ( \(416\) 555-0763) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Emergency Contact:) Tj /F1 8 Tf ( Carlos Torres \(brother\) \226 \(416\) 555-0812) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Family Physician:) Tj /F1 8 Tf ( Dr. Alejandro Mart\355nez Roa \(community\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Pharmacy:) Tj /F1 8 Tf ( Rexall \226 100 Queen St E) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Language:) Tj /F1 8 Tf ( Spanish / English) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 90 m 504 90 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 90 l S
+n 504 0 m 504 90 l S
+.827451 .827451 .827451 RG
+.25 w
+n 0 72 m 504 72 l S
+n 0 54 m 504 54 l S
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 252 0 m 252 90 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 534.3 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 512.3 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (1.1 \226 Active Medical Problems) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 496.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (1. Urosepsis secondary to complicated UTI \(E. coli ESBL-producing\) \226 A41.51 | CURRENT.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 481.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (2. Acute Kidney Injury \(AKI\) on previously normal renal function \226 N17.9 | CURRENT.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 466.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (3. Metabolic acidosis with elevated lactate \226 E87.2 | CURRENT.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 451.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (4. Recurrent urinary tract infections \(3 episodes in 18 months\) \226 N39.0 | CHRONIC.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 446.8 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 424.8 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 .2 .4 rg (1.2 \226 Past Medical & Surgical History) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 408.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (2\327 prior UTIs in 2024 \(treated with nitrofurantoin and ciprofloxacin\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 393.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Appendectomy 2012, uncomplicated.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 378.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (No chronic conditions. No prior hospitalizations except appendectomy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 374.3 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 352.3 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (1.3 \226 Allergies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 336.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (No known drug or food allergies \(NKDA/NKFA\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 331.8 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 309.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (1.4 \226 Medications at Admission) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 293.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Nitrofurantoin 100 mg BID \(self-prescribed \327 5 days\) \226 DISCONTINUED on admission.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 278.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Ibuprofen 400 mg PRN \(last dose 48 h before admission\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 263.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (OCP: Desogestrel / Ethinyl Estradiol 0.15/0.03 mg \226 continued.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 259.3 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 237.3 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (1.5 \226 Immunization History) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 221.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (COVID-19 series completed through 2024. Influenza: Oct 2025. HPV Gardasil-9: 2014 \(3-dose\). Hepatitis B: childhood.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 216.8 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 194.8 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 .2 .4 rg (1.6 \226 Family & Social History) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 178.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Family:) Tj /F1 8.5 Tf ( Mother \(55, T2DM\). Father \(57, healthy\). No FH renal disease.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 163.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Social:) Tj /F1 8.5 Tf ( Single. Bilingual admin assistant. Non-smoker. Social alcohol \(occasional\). No drugs. G0P0. Pap 2024 normal.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.2 0.2 0.2 RG
+/gRLs0 gs
+0.7 w
+n
+54 164 m
+558 164 l
+S
+0 0 0 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 54 150 Tm
+(DISCLAIMER) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 54 136 Tm
+(This document is a fully synthetic medical record generated for software testing and demonstration purposes only\056 All patient data contained herein is) Tj
+T*
+ET
+BT
+1 0 0 1 54 125 Tm
+(fictional\056 Any resemblance to real persons\054 living or dead\054 is purely coincidental\056 Institutional names used in this document are fictional and do not) Tj
+T*
+ET
+BT
+1 0 0 1 54 114 Tm
+(represent real clinical documentation\056 This document must not be used for clinical\054 legal\054 or medical decision\055making purposes\056) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+0.8 0.1 0.1 rg
+/gRLs0-0 gs
+q
+0.611448 0.791285 -0.791285 0.611448 306 396 cm
+BT
+/F2-1 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -459.711 0 Tm
+(SYNTHETIC SAMPLE \226 NOT A REAL PATIENT) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 15 0 R
+/F2 9 0 R
+/F2-0 16 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 7867
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 664.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 23 Tm 27.4435 0 Td 12 TL /F2 13 Tf 0 0 0 rg (Sample Lakeview General Hospital \226) Tj T* -23.4585 0 Td (Emergency Department & Intermediate Care) Tj T* 123.539 0 Td (Unit) Tj T* -127.524 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 2.88 0 Td (EMERGENCY ADMISSION NOTE \226 SOAP) Tj T* -2.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 39.088 0 Td (200 Lakeview Boulevard | Harbour District, ON M5G 2C4) Tj T* -39.088 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 56.484 0 Td (Date: February 12, 2026) Tj T* -56.484 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 65.528 0 Td (Tel: \(555\) 340-4800 | Fax: \(555\) 340-3485) Tj T* -65.528 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 18 cm
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 0 m 504 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 656.8 cm
+Q
+q
+1 0 0 1 60 634.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (SECTION 2 \226 EMERGENCY ADMISSION ENCOUNTER) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 576.8 cm
+q
+.933333 .956863 .984314 rg
+n 0 54 504 -54 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Patient:) Tj /F1 8 Tf ( Maria Guadalupe Torres M\351ndez) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (DOB:) Tj /F1 8 Tf ( June 22, 1991) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Admission Date:) Tj /F1 8 Tf ( February 12, 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Admission Time:) Tj /F1 8 Tf ( 09:42 AM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Admitting Unit:) Tj /F1 8 Tf ( IMCU \226 Bed 14B) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Attending:) Tj /F1 8 Tf ( Dr. Sandra Villalobos Pe\361a, MD) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 54 m 504 54 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 54 l S
+n 504 0 m 504 54 l S
+.827451 .827451 .827451 RG
+.25 w
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 252 0 m 252 54 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 572.3 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 550.3 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (S \226 SUBJECTIVE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 534.3 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Chief Complaint:) Tj /F1 8.5 Tf ( "I've had burning urination for 5 days and now I feel like I'm going to pass out \226 I have fever and chills.") Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 483.3 cm
+q
+BT 1 0 0 1 0 39.5 Tm .683289 Tw 12 TL /F2 8.5 Tf 0 0 0 rg (HPI:) Tj /F1 8.5 Tf ( Ms. Torres is a 34-year-old previously healthy woman with a 5-day history of dysuria, frequency, and suprapubic pain. She) Tj T* 0 Tw .402176 Tw (self-prescribed nitrofurantoin 100 mg BID \(leftover\) without improvement. 24 hours prior to arrival she developed fever \(peak 39.0) Tj T* 0 Tw 1.923056 Tw (\260C\), rigors, drenching sweats, diffuse malaise, and right costovertebral angle pain. Minimal oral intake for 24 h. No vaginal) Tj T* 0 Tw (symptoms, recent instrumentation, or travel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 456.3 cm
+q
+BT 1 0 0 1 0 15.5 Tm 2.913433 Tw 12 TL /F2 8.5 Tf 0 0 0 rg (ROS:) Tj /F1 8.5 Tf ( Constitutional: fever, chills, diaphoresis. GU: dysuria, frequency, flank pain, dark urine. No respiratory, cardiac, or) Tj T* 0 Tw (neurological symptoms.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 451.8 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 429.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (O \226 OBJECTIVE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 413.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Vitals on Arrival:) Tj /F1 8.5 Tf ( BP 90/60 mmHg | HR 118 bpm \(sinus tachycardia\) | RR 22/min | SpO2 97% RA | T 39.2 \260C | Wt 62 kg.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 398.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (qSOFA:) Tj /F1 8.5 Tf ( 2. ) Tj /F2 8.5 Tf (SOFA:) Tj /F1 8.5 Tf ( 4 \(cardiovascular 2, renal 2\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 383.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (General:) Tj /F1 8.5 Tf ( Ill-appearing, diaphoretic, shivering. Alert and oriented \3273.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 368.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Abdomen:) Tj /F1 8.5 Tf ( Mild suprapubic tenderness. Right CVA tenderness 2+.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 353.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Skin:) Tj /F1 8.5 Tf ( Warm, diaphoretic. No rash, no petechiae.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 338.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Neuro:) Tj /F1 8.5 Tf ( GCS 15. No focal deficits.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 334.3 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 312.3 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (A \226 ASSESSMENT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 296.3 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F1 8.5 Tf 0 0 0 rg (1. ) Tj /F2 8.5 Tf (Urosepsis) Tj /F1 8.5 Tf ( \226 qSOFA 2, hemodynamic compromise, urinary source confirmed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 281.3 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F1 8.5 Tf 0 0 0 rg (2. ) Tj /F2 8.5 Tf (ESBL-producing E. coli) Tj /F1 8.5 Tf ( \226 resistant to penicillins/cephalosporins; nitrofurantoin failure \(upper tract\). Meropenem required.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 266.3 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F1 8.5 Tf 0 0 0 rg (3. ) Tj /F2 8.5 Tf (Acute Kidney Injury) Tj /F1 8.5 Tf ( \226 Creatinine 3.0 mg/dL vs. estimated baseline <) Tj (0.9. Pre-renal component from dehydration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 251.3 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F1 8.5 Tf 0 0 0 rg (4. ) Tj /F2 8.5 Tf (Metabolic acidosis with hyperlactatemia) Tj /F1 8.5 Tf ( \226 lactate >2 mmol/L; consistent with sepsis-induced hypoperfusion.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 246.8 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 224.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (P \226 PLAN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 208.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (1. Admit to IMCU \226 haemodynamic monitoring, 2 large-bore peripheral IVs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 193.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (2. IV fluid resuscitation: NS 30 mL/kg bolus, then reassess.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 178.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F1 8.5 Tf 0 0 0 rg (3. ) Tj /F2 8.5 Tf (Meropenem 1 g IV q8h) Tj /F1 8.5 Tf ( \226 empiric; targeted once sensitivities confirmed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 163.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (4. Blood cultures \3272 \(peripheral\) prior to antibiotics.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 148.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (5. Urinary catheter \226 strict I/O.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 133.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (6. Acetaminophen 1 g IV q6h PRN for T >38.5 \260C.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 118.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (7. Enoxaparin 40 mg SC daily for DVT prophylaxis once AKI resolves.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 103.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (8. Serial renal function q24\22648 h.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 88.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (9. Repeat urine culture at 48 h to confirm sterilisation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 73.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (10. Total 7-day IV antibiotic course; discharge when afebrile \32748 h.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 58.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (11. Follow-up with family physician within 7 days of discharge.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.8 0.1 0.1 rg
+/gRLs0 gs
+q
+0.611448 0.791285 -0.791285 0.611448 306 396 cm
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -459.711 0 Tm
+(SYNTHETIC SAMPLE \226 NOT A REAL PATIENT) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 19 0 R
+/F2 9 0 R
+/F2-0 20 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 1114
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 728.8 cm
+Q
+q
+1 0 0 1 54 648.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 142.028 0 Td (____________________________________________) Tj T* -142.028 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL 182.9385 0 Td (Dr. Sandra Villalobos Pe\361a, MD) Tj T* -182.9385 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 190.733 0 Td (License No.: MED-ON-77231) Tj T* -190.733 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 142.7802 0 Td (Internal Medicine \226 Sample Lakeview General Hospital) Tj T* -142.7802 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 199.9342 0 Td (Date: February 12, 2026) Tj T* -199.9342 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.8 0.1 0.1 rg
+/gRLs0 gs
+q
+0.611448 0.791285 -0.791285 0.611448 306 396 cm
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -459.711 0 Tm
+(SYNTHETIC SAMPLE \226 NOT A REAL PATIENT) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+19 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 23 0 R
+/F2 9 0 R
+/F2-0 24 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 15745
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 664.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 23 Tm 27.4435 0 Td 12 TL /F2 13 Tf 0 0 0 rg (Sample Lakeview General Hospital \226) Tj T* -23.4585 0 Td (Emergency Department & Intermediate Care) Tj T* 123.539 0 Td (Unit) Tj T* -127.524 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 8.445 0 Td (LABORATORY REPORT \226 ADMISSION) Tj T* -8.445 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 39.088 0 Td (200 Lakeview Boulevard | Harbour District, ON M5G 2C4) Tj T* -39.088 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 56.484 0 Td (Date: February 12, 2026) Tj T* -56.484 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 65.528 0 Td (Tel: \(555\) 340-4800 | Fax: \(555\) 340-3485) Tj T* -65.528 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 18 cm
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 0 m 504 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 656.8 cm
+Q
+q
+1 0 0 1 60 634.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (SECTION 3A \226 ADMISSION LABORATORY RESULTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 576.8 cm
+q
+.933333 .956863 .984314 rg
+n 0 54 504 -54 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Patient:) Tj /F1 8 Tf ( Maria Guadalupe Torres M\351ndez) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (DOB:) Tj /F1 8 Tf ( June 22, 1991) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (OHIP:) Tj /F1 8 Tf ( 5812-234-901 KM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Collection Date:) Tj /F1 8 Tf ( February 12, 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Collection Time:) Tj /F1 8 Tf ( 09:55 AM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Lab #:) Tj /F1 8 Tf ( LVH-2026-0212-4421) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 54 m 504 54 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 54 l S
+n 504 0 m 504 54 l S
+.827451 .827451 .827451 RG
+.25 w
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 252 0 m 252 54 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 570.8 cm
+Q
+q
+1 0 0 1 60 552.8 cm
+q
+0 .333333 .6 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Complete Blood Count \(CBC\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 351.8 cm
+q
+0 .2 .4 rg
+n 0 198 504 -18 re f*
+1 1 1 rg
+n 0 180 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 162 504 -18 re f*
+1 1 1 rg
+n 0 144 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 126 504 -18 re f*
+1 1 1 rg
+n 0 108 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 90 504 -18 re f*
+1 1 1 rg
+n 0 72 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 54 504 -18 re f*
+1 1 1 rg
+n 0 36 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 18 504 -18 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 184 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Test) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 184 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 184 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Reference Range) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 184 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Units) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 184 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Flag) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 166 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (WBC) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 166 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (17.0 x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 166 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (4.0 \226 11.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 166 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 166 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (H) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Neutrophils) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 148 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (13.9 x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L \(82%\)) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (1.8 \226 7.7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 148 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (H) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Lymphocytes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 130 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (2.1 x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (1.0 \226 4.8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 130 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Monocytes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 112 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (0.8 x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (0.2 \226 1.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 112 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Eosinophils) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 94 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (0.1 x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (0.0 \226 0.5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 94 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (RBC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 76 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (4.3 x10) Tj /F1 6.4 Tf 4 Ts (12) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3.9 \226 5.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 76 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (x10) Tj /F1 6.4 Tf 4 Ts (12) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Hemoglobin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (12.8 g/dL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (12.0 \226 16.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (g/dL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Hematocrit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (38.0 %) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (37.0 \226 47.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (MCV) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (88.3 fL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (80.0 \226 100.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (fL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Platelets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (214 x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (150 \226 400) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.3 w
+n 0 198 m 504 198 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 198 l S
+n 504 0 m 504 198 l S
+n 0 180 m 504 180 l S
+n 0 162 m 504 162 l S
+n 0 144 m 504 144 l S
+n 0 126 m 504 126 l S
+n 0 108 m 504 108 l S
+n 0 90 m 504 90 l S
+n 0 72 m 504 72 l S
+n 0 54 m 504 54 l S
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 183.6 0 m 183.6 198 l S
+n 273.6 0 m 273.6 198 l S
+n 388.8 0 m 388.8 198 l S
+n 453.6 0 m 453.6 198 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 345.8 cm
+Q
+q
+1 0 0 1 60 327.8 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F2 9 Tf 0 .333333 .6 rg (Renal Function & Metabolic Panel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 126.8 cm
+q
+0 .2 .4 rg
+n 0 198 504 -18 re f*
+1 1 1 rg
+n 0 180 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 162 504 -18 re f*
+1 1 1 rg
+n 0 144 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 126 504 -18 re f*
+1 1 1 rg
+n 0 108 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 90 504 -18 re f*
+1 1 1 rg
+n 0 72 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 54 504 -18 re f*
+1 1 1 rg
+n 0 36 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 18 504 -18 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 184 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Test) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 184 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 184 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Reference Range) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 184 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Units) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 184 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Flag) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 166 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Creatinine) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 166 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3.0 mg/dL) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 166 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (0.5 \226 1.1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 166 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mg/dL) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 166 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (CRIT) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (BUN) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (48 mg/dL) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (7 \226 25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mg/dL) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (H) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (eGFR \(CKD-EPI\)) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (18 mL/min/1.73m2) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL /F3 8 Tf 10 TL (\263) Tj /F1 8 Tf 10 TL ( 60) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mL/min) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (CRIT) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sodium \(Na\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (136 mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (136 \226 145) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Potassium \(K\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (4.2 mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3.5 \226 5.1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Chloride) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (104 mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (98 \226 107) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Bicarbonate HCO3) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (14 mmol/L) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (22 \226 29) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (L) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Glucose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (5.8 mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3.9 \226 11.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (ALT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (32 U/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (7 \226 40) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (U/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (AST) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (28 U/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (10 \226 40) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (U/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.3 w
+n 0 198 m 504 198 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 198 l S
+n 504 0 m 504 198 l S
+n 0 180 m 504 180 l S
+n 0 162 m 504 162 l S
+n 0 144 m 504 144 l S
+n 0 126 m 504 126 l S
+n 0 108 m 504 108 l S
+n 0 90 m 504 90 l S
+n 0 72 m 504 72 l S
+n 0 54 m 504 54 l S
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 183.6 0 m 183.6 198 l S
+n 273.6 0 m 273.6 198 l S
+n 388.8 0 m 388.8 198 l S
+n 453.6 0 m 453.6 198 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 120.8 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.8 0.1 0.1 rg
+/gRLs0 gs
+q
+0.611448 0.791285 -0.791285 0.611448 306 396 cm
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -459.711 0 Tm
+(SYNTHETIC SAMPLE \226 NOT A REAL PATIENT) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+25 0 obj
+<<
+/Contents 26 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 27 0 R
+/F2 9 0 R
+/F2-0 28 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 12724
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 730.8 cm
+q
+0 .333333 .6 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Arterial Blood Gas \(ABG\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 583.8 cm
+q
+0 .2 .4 rg
+n 0 144 504 -18 re f*
+1 1 1 rg
+n 0 126 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 108 504 -18 re f*
+1 1 1 rg
+n 0 90 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 72 504 -18 re f*
+1 1 1 rg
+n 0 54 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 36 504 -18 re f*
+1 1 1 rg
+n 0 18 504 -18 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 130 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Test) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 130 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 130 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Reference Range) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 130 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Units) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 130 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Flag) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (pH) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (7.28) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (7.35 \226 7.45) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 122 cm
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (L) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (pCO2) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (28 mmHg) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (35 \226 45) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmHg) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (L) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (pO2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (88 mmHg) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (80 \226 100) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmHg) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (HCO3 \(calculated\)) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (13.2 mmol/L) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (22 \226 26) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (L) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Base Excess) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (-12.4 mmol/L) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (-2 \226 +2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (L) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Lactate) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (2.8 mmol/L) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (0.5 \226 2.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (H) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (SpO2 \(arterial\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (97.1 %) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (95 \226 100) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.3 w
+n 0 144 m 504 144 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 144 l S
+n 504 0 m 504 144 l S
+n 0 126 m 504 126 l S
+n 0 108 m 504 108 l S
+n 0 90 m 504 90 l S
+n 0 72 m 504 72 l S
+n 0 54 m 504 54 l S
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 183.6 0 m 183.6 144 l S
+n 273.6 0 m 273.6 144 l S
+n 388.8 0 m 388.8 144 l S
+n 453.6 0 m 453.6 144 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 577.8 cm
+Q
+q
+1 0 0 1 60 559.8 cm
+q
+0 .333333 .6 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Urinalysis \(UA\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 340.8 cm
+q
+0 .2 .4 rg
+n 0 216 504 -18 re f*
+1 1 1 rg
+n 0 198 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 180 504 -18 re f*
+1 1 1 rg
+n 0 162 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 144 504 -18 re f*
+1 1 1 rg
+n 0 126 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 108 504 -18 re f*
+1 1 1 rg
+n 0 90 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 72 504 -18 re f*
+1 1 1 rg
+n 0 54 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 36 504 -18 re f*
+1 1 1 rg
+n 0 18 504 -18 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 202 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Test) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 202 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 202 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Reference Range) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 202 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Units) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 202 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Flag) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 184 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Color) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 184 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Dark yellow) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 184 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Pale yellow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 184 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (\226) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 184 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (ABN) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 166 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Clarity) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 166 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Turbid) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 166 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Clear) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 166 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (\226) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 166 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (ABN) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (pH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (6.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (4.5 \226 8.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (\226) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Specific Gravity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (1.028) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (1.005 \226 1.030) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (\226) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Leukocytes \(WBC\)) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (>500 cells/\265L) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 112 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (<) Tj (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (cells/\265L) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (CRIT) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Nitrites) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (POSITIVE) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Negative) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (\226) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (ABN) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Bacteria) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (++++ \(many\)) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (None) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (\226) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (ABN) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Epithelial cells) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (None seen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 58 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (<) Tj (5/hpf) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (\226) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Erythrocytes RBC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (0 \226 1/hpf) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (0 \226 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (/hpf) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Protein) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Trace) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Negative) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mg/dL) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (ABN) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Glucose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Negative) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Negative) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (\226) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.3 w
+n 0 216 m 504 216 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 216 l S
+n 504 0 m 504 216 l S
+n 0 198 m 504 198 l S
+n 0 180 m 504 180 l S
+n 0 162 m 504 162 l S
+n 0 144 m 504 144 l S
+n 0 126 m 504 126 l S
+n 0 108 m 504 108 l S
+n 0 90 m 504 90 l S
+n 0 72 m 504 72 l S
+n 0 54 m 504 54 l S
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 183.6 0 m 183.6 216 l S
+n 273.6 0 m 273.6 216 l S
+n 388.8 0 m 388.8 216 l S
+n 453.6 0 m 453.6 216 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 334.8 cm
+Q
+q
+1 0 0 1 60 316.8 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F2 9 Tf 0 .333333 .6 rg (Urine Culture & Sensitivity \226 FINAL \(Feb 12, 2026\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 301.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Organism:) Tj /F1 8.5 Tf ( Escherichia coli \226 Colony count: >) Tj (100,000 CFU/mL. ) Tj /F2 8.5 Tf (ESBL-producer confirmed.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.8 0.1 0.1 rg
+/gRLs0 gs
+q
+0.611448 0.791285 -0.791285 0.611448 306 396 cm
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -459.711 0 Tm
+(SYNTHETIC SAMPLE \226 NOT A REAL PATIENT) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+27 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+28 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+29 0 obj
+<<
+/Contents 30 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 31 0 R
+/F2 9 0 R
+/F2-0 32 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+30 0 obj
+<<
+/Length 5018
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 730.8 cm
+q
+0 .333333 .6 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Antibiotic Susceptibility) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 467.8 cm
+q
+.4 0 0 rg
+n 0 260 504 -20 re f*
+1 1 1 rg
+n 0 240 504 -20 re f*
+.960784 .972549 .988235 rg
+n 0 220 504 -20 re f*
+1 1 1 rg
+n 0 200 504 -20 re f*
+.960784 .972549 .988235 rg
+n 0 180 504 -20 re f*
+1 1 1 rg
+n 0 160 504 -20 re f*
+.960784 .972549 .988235 rg
+n 0 140 504 -20 re f*
+1 1 1 rg
+n 0 120 504 -20 re f*
+.960784 .972549 .988235 rg
+n 0 100 504 -20 re f*
+1 1 1 rg
+n 0 80 504 -20 re f*
+.960784 .972549 .988235 rg
+n 0 60 504 -20 re f*
+1 1 1 rg
+n 0 40 504 -20 re f*
+.960784 .972549 .988235 rg
+n 0 20 504 -20 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 245 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Antibiotic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 245 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (MIC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329 245 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Interpretation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Meropenem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (0.03 \265g/mL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (SUSCEPTIBLE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 205 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ertapenem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 205 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (0.06 \265g/mL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329 205 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (SUSCEPTIBLE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 185 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Imipenem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 185 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (0.12 \265g/mL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329 185 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (SUSCEPTIBLE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Fosfomycin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (16 \265g/mL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (SUSCEPTIBLE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 145 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Amoxicillin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 145 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (>16 \265g/mL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329 145 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (RESISTANT \(ESBL\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 125 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ampicillin-Sulbactam) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 125 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (>16 \265g/mL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329 125 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (RESISTANT \(ESBL\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Cefazolin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (>32 \265g/mL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (RESISTANT \(ESBL\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ceftriaxone) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (>16 \265g/mL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (RESISTANT \(ESBL\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Piperacillin-Tazobactam) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (16 \265g/mL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (RESISTANT \(ESBL\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Nitrofurantoin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (128 \265g/mL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (RESISTANT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 25 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (TMP-SMX) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 25 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (>32 \265g/mL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329 25 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (RESISTANT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ciprofloxacin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (4 \265g/mL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 329 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (INTERMEDIATE) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.3 w
+n 0 260 m 504 260 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 260 l S
+n 504 0 m 504 260 l S
+n 0 240 m 504 240 l S
+n 0 220 m 504 220 l S
+n 0 200 m 504 200 l S
+n 0 180 m 504 180 l S
+n 0 160 m 504 160 l S
+n 0 140 m 504 140 l S
+n 0 120 m 504 120 l S
+n 0 100 m 504 100 l S
+n 0 80 m 504 80 l S
+n 0 60 m 504 60 l S
+n 0 40 m 504 40 l S
+n 0 20 m 504 20 l S
+n 216 0 m 216 260 l S
+n 324 0 m 324 260 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 459.8 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.8 0.1 0.1 rg
+/gRLs0 gs
+q
+0.611448 0.791285 -0.791285 0.611448 306 396 cm
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -459.711 0 Tm
+(SYNTHETIC SAMPLE \226 NOT A REAL PATIENT) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+31 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+32 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+33 0 obj
+<<
+/Contents 34 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 35 0 R
+/F2 9 0 R
+/F2-0 36 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 14947
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 664.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 23 Tm 27.4435 0 Td 12 TL /F2 13 Tf 0 0 0 rg (Sample Lakeview General Hospital \226) Tj T* -23.4585 0 Td (Emergency Department & Intermediate Care) Tj T* 123.539 0 Td (Unit) Tj T* -127.524 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 3.445 0 Td (LABORATORY REPORT \226 CONTROL \(48) Tj T* 91.675 0 Td (h\)) Tj T* -95.12 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 39.088 0 Td (200 Lakeview Boulevard | Harbour District, ON M5G 2C4) Tj T* -39.088 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 56.484 0 Td (Date: February 14, 2026) Tj T* -56.484 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 65.528 0 Td (Tel: \(555\) 340-4800 | Fax: \(555\) 340-3485) Tj T* -65.528 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 18 cm
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 0 m 504 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 656.8 cm
+Q
+q
+1 0 0 1 60 634.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (SECTION 3B \226 CONTROL LABORATORY RESULTS \(48 h POST-ADMISSION\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 576.8 cm
+q
+.933333 .956863 .984314 rg
+n 0 54 504 -54 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Patient:) Tj /F1 8 Tf ( Maria Guadalupe Torres M\351ndez) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (DOB:) Tj /F1 8 Tf ( June 22, 1991) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (OHIP:) Tj /F1 8 Tf ( 5812-234-901 KM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Collection Date:) Tj /F1 8 Tf ( February 14, 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Collection Time:) Tj /F1 8 Tf ( 08:15 AM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Lab #:) Tj /F1 8 Tf ( LVH-2026-0214-4899) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 54 m 504 54 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 54 l S
+n 504 0 m 504 54 l S
+.827451 .827451 .827451 RG
+.25 w
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 252 0 m 252 54 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 570.8 cm
+Q
+q
+1 0 0 1 60 552.8 cm
+q
+0 .333333 .6 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (CBC \226 Control \(48 h\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 423.8 cm
+q
+0 .2 .4 rg
+n 0 126 504 -18 re f*
+1 1 1 rg
+n 0 108 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 90 504 -18 re f*
+1 1 1 rg
+n 0 72 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 54 504 -18 re f*
+1 1 1 rg
+n 0 36 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 18 504 -18 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 112 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Test) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 112 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 112 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Reference Range) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 112 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Units) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 112 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Flag) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (WBC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 94 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (7.2 x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (4.0 \226 11.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 94 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Neutrophils) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 76 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (4.9 x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L \(68%\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (1.8 \226 7.7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 76 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Lymphocytes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 58 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (1.8 x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (1.0 \226 4.8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 58 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Hemoglobin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (12.5 g/dL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (12.0 \226 16.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (g/dL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Hematocrit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (37.5 %) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (37.0 \226 47.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Platelets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (228 x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (150 \226 400) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.3 w
+n 0 126 m 504 126 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 126 l S
+n 504 0 m 504 126 l S
+n 0 108 m 504 108 l S
+n 0 90 m 504 90 l S
+n 0 72 m 504 72 l S
+n 0 54 m 504 54 l S
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 183.6 0 m 183.6 126 l S
+n 273.6 0 m 273.6 126 l S
+n 388.8 0 m 388.8 126 l S
+n 453.6 0 m 453.6 126 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 417.8 cm
+Q
+q
+1 0 0 1 60 399.8 cm
+q
+0 .333333 .6 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Renal Function \226 Control \(48 h\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 270.8 cm
+q
+0 .2 .4 rg
+n 0 126 504 -18 re f*
+1 1 1 rg
+n 0 108 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 90 504 -18 re f*
+1 1 1 rg
+n 0 72 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 54 504 -18 re f*
+1 1 1 rg
+n 0 36 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 18 504 -18 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 112 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Test) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 112 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 112 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Reference Range) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 112 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Units) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 112 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Flag) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Creatinine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (1.0 mg/dL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (0.5 \226 1.1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mg/dL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (BUN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (18 mg/dL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (7 \226 25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mg/dL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (eGFR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (72 mL/min/1.73m2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL /F3 8 Tf 10 TL (\263) Tj /F1 8 Tf 10 TL ( 60) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mL/min) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sodium \(Na\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (138 mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (136 \226 145) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Potassium \(K\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3.9 mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3.5 \226 5.1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (HCO3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (24 mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (22 \226 29) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.3 w
+n 0 126 m 504 126 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 126 l S
+n 504 0 m 504 126 l S
+n 0 108 m 504 108 l S
+n 0 90 m 504 90 l S
+n 0 72 m 504 72 l S
+n 0 54 m 504 54 l S
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 183.6 0 m 183.6 126 l S
+n 273.6 0 m 273.6 126 l S
+n 388.8 0 m 388.8 126 l S
+n 453.6 0 m 453.6 126 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 264.8 cm
+Q
+q
+1 0 0 1 60 246.8 cm
+q
+0 .333333 .6 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Arterial Blood Gas \226 Control \(48 h\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 117.8 cm
+q
+0 .2 .4 rg
+n 0 126 504 -18 re f*
+1 1 1 rg
+n 0 108 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 90 504 -18 re f*
+1 1 1 rg
+n 0 72 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 54 504 -18 re f*
+1 1 1 rg
+n 0 36 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 18 504 -18 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 112 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Test) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 112 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 112 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Reference Range) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 112 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Units) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 112 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Flag) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (pH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (7.41) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (7.35 \226 7.45) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 104 cm
+Q
+q
+1 0 0 1 458.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (pCO2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (39 mmHg) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (35 \226 45) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmHg) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (pO2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (91 mmHg) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (80 \226 100) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmHg) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (HCO3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (24.5 mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (22 \226 26) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Base Excess) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (+0.8 mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (-2 \226 +2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Lactate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (1.2 mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (0.5 \226 2.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.3 w
+n 0 126 m 504 126 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 126 l S
+n 504 0 m 504 126 l S
+n 0 108 m 504 108 l S
+n 0 90 m 504 90 l S
+n 0 72 m 504 72 l S
+n 0 54 m 504 54 l S
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 183.6 0 m 183.6 126 l S
+n 273.6 0 m 273.6 126 l S
+n 388.8 0 m 388.8 126 l S
+n 453.6 0 m 453.6 126 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 111.8 cm
+Q
+q
+1 0 0 1 60 99.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Urine Culture \(Feb 14\):) Tj /F1 8.5 Tf ( NO GROWTH at 48 h \226 microbiological clearance confirmed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 84.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Blood Cultures \3272 \(Feb 12\):) Tj /F1 8.5 Tf ( NO GROWTH at 5 days \226 bacteraemia ruled out.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.8 0.1 0.1 rg
+/gRLs0 gs
+q
+0.611448 0.791285 -0.791285 0.611448 306 396 cm
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -459.711 0 Tm
+(SYNTHETIC SAMPLE \226 NOT A REAL PATIENT) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+35 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+37 0 obj
+<<
+/Contents 38 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 39 0 R
+/F2 9 0 R
+/F2-0 40 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+38 0 obj
+<<
+/Length 7654
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 664.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 23 Tm 27.4435 0 Td 12 TL /F2 13 Tf 0 0 0 rg (Sample Lakeview General Hospital \226) Tj T* -23.4585 0 Td (Emergency Department & Intermediate Care) Tj T* 123.539 0 Td (Unit) Tj T* -127.524 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 13.17 0 Td (DISCHARGE SUMMARY \(EPICRISIS\)) Tj T* -13.17 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 39.088 0 Td (200 Lakeview Boulevard | Harbour District, ON M5G 2C4) Tj T* -39.088 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 56.484 0 Td (Date: February 19, 2026) Tj T* -56.484 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 65.528 0 Td (Tel: \(555\) 340-4800 | Fax: \(555\) 340-3485) Tj T* -65.528 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 18 cm
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 0 m 504 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 656.8 cm
+Q
+q
+1 0 0 1 60 634.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (SECTION 4 \226 HOSPITAL DISCHARGE SUMMARY \(EPICRISIS\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 530.8 cm
+q
+.933333 .956863 .984314 rg
+n 0 100 504 -100 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 86 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Patient:) Tj /F1 8 Tf ( Maria Guadalupe Torres M\351ndez) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 86 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (DOB:) Tj /F1 8 Tf ( June 22, 1991) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 68 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (OHIP:) Tj /F1 8 Tf ( 5812-234-901 KM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 68 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Admission Date:) Tj /F1 8 Tf ( February 12, 2026 \226 09:42) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 50 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Discharge Date:) Tj /F1 8 Tf ( February 19, 2026 \226 11:30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 50 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Length of Stay:) Tj /F1 8 Tf ( 7 days) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 32 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Admitting Unit:) Tj /F1 8 Tf ( ED ) Tj /F3 8 Tf 10 TL (\256) Tj /F1 8 Tf 10 TL ( IMCU Bed 14B) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 32 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Attending Physician:) Tj /F1 8 Tf ( Dr. Sandra Villalobos Pe\361a, MD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 12 Tm 10 TL /F2 8 Tf 0 0 0 rg (Discharge Diagnosis:) Tj /F1 8 Tf ( Resolved urosepsis \(E. coli ESBL\) with AKI) Tj T* (and metabolic acidosis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 14 cm
+q
+BT 1 0 0 1 0 2 Tm -0.011 Tw 10 TL /F2 8 Tf 0 0 0 rg (Discharge Condition:) Tj /F1 8 Tf ( Good \226 stable, afebrile, tolerating oral intake) Tj T* 0 Tw ET
+Q
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 100 m 504 100 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 100 l S
+n 504 0 m 504 100 l S
+.827451 .827451 .827451 RG
+.25 w
+n 0 82 m 504 82 l S
+n 0 64 m 504 64 l S
+n 0 46 m 504 46 l S
+n 0 28 m 504 28 l S
+n 252 0 m 252 100 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 526.3 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 504.3 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Reason for Admission) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 452.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 39.5 Tm /F1 8.5 Tf 12 TL .342275 Tw (Ms. Torres was admitted through the ED on February 12, 2026 with a 5-day history of lower urinary tract symptoms unresponsive) Tj T* 0 Tw .185594 Tw (to self-prescribed nitrofurantoin, followed by fever \(39.2 \260C\), rigors, diaphoresis, right flank pain, and haemodynamic instability \(BP) Tj T* 0 Tw 2.654676 Tw (90/60 mmHg, HR 118 bpm\). Assessment confirmed urosepsis \(qSOFA 2, SOFA 4\) with concurrent AKI \(Cr 3.0 mg/dL\),) Tj T* 0 Tw (hyperlactatemia \(2.8 mmol/L\), and metabolic acidosis \(pH 7.28\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 447.8 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 425.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Hospital Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 397.8 cm
+q
+BT 1 0 0 1 0 15.5 Tm .060075 Tw 12 TL /F2 8.5 Tf 0 0 0 rg (Day 1 \(Feb 12\):) Tj /F1 8.5 Tf ( IMCU admission. IV fluid resuscitation \(NS 30 mL/kg\). Urine and blood cultures collected. Empiric Meropenem 1 g) Tj T* 0 Tw (IV q8h started within 1 h of sepsis identification. Foley catheter placed. Haemodynamics improved within 6 h.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 370.8 cm
+q
+BT 1 0 0 1 0 15.5 Tm 1.254579 Tw 12 TL /F2 8.5 Tf 0 0 0 rg (Day 2 \(Feb 14\):) Tj /F1 8.5 Tf ( ESBL E. coli confirmed \226 Meropenem appropriate. Cr trending down \(1.0 mg/dL\). Blood cultures: no growth.) Tj T* 0 Tw (Lactate normalised. ABG normalised \(pH 7.41\). Afebrile \32712 h. Oral fluids started.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 343.8 cm
+q
+BT 1 0 0 1 0 15.5 Tm 1.024167 Tw 12 TL /F2 8.5 Tf 0 0 0 rg (Days 3\2265 \(Feb 15\22617\):) Tj /F1 8.5 Tf ( Progressive improvement. Full oral diet resumed. IV-to-oral analgesics. Urine output normalised. Vitals) Tj T* 0 Tw (stable \(BP 118/74, HR 82\). Foley removed Day 4.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 316.8 cm
+q
+BT 1 0 0 1 0 15.5 Tm 2.361063 Tw 12 TL /F2 8.5 Tf 0 0 0 rg (Days 6\2267 \(Feb 18\22619\):) Tj /F1 8.5 Tf ( Clinically well. Afebrile \32748 h. Full oral diet. Ambulating independently. 7-day Meropenem course) Tj T* 0 Tw (completed. Discharge planned.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 312.3 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 290.3 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Discharge Medications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 274.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (No new discharge prescriptions required.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 259.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Nitrofurantoin: DISCONTINUED \(ESBL resistant; inadequate for upper tract\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 244.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (OCP \(Desogestrel/EE\): CONTINUED.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 229.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Acetaminophen 500 mg q6h PRN \327 3 days.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 214.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (AVOID NSAIDs until renal function confirmed normal at follow-up.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 209.8 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 187.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Discharge Instructions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 171.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (1. Rest for 2 days following discharge.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 156.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (2. Maintain adequate hydration \() Tj /F3 8.5 Tf 12 TL (\263) Tj /F1 8.5 Tf 12 TL ( 2 L water/day\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 141.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (3. Return to ED immediately if: fever >38.5 \260C, rigors, flank pain, decreased urine output, or confusion.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 126.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (4. Avoid self-medication with antibiotics.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 111.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (5. Follow up with family physician within 7 days.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 96.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (6. Urological assessment recommended if recurrent UTI occurs \(3rd episode in 18 months\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 92.3 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 70.3 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Medical Leave Certificate) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.8 0.1 0.1 rg
+/gRLs0 gs
+q
+0.611448 0.791285 -0.791285 0.611448 306 396 cm
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -459.711 0 Tm
+(SYNTHETIC SAMPLE \226 NOT A REAL PATIENT) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+39 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+40 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+41 0 obj
+<<
+/Contents 42 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 43 0 R
+/F2 9 0 R
+/F2-0 44 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+42 0 obj
+<<
+/Length 1623
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 718.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL 1.375278 Tw (Patient is granted medical leave for 2 \(two\) calendar days: February 19\22620, 2026. Patient may return to regular occupational) Tj T* 0 Tw (activities on February 21, 2026.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 707.8 cm
+Q
+q
+1 0 0 1 60 695.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Follow-Up Order:) Tj /F1 8.5 Tf ( Control appointment with Family Physician within 7 days \(on or before February 26, 2026\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 678.8 cm
+Q
+q
+1 0 0 1 54 598.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 142.028 0 Td (____________________________________________) Tj T* -142.028 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL 182.9385 0 Td (Dr. Sandra Villalobos Pe\361a, MD) Tj T* -182.9385 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 190.733 0 Td (License No.: MED-ON-77231) Tj T* -190.733 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 142.7802 0 Td (Internal Medicine \226 Sample Lakeview General Hospital) Tj T* -142.7802 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 199.9342 0 Td (Date: February 19, 2026) Tj T* -199.9342 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.8 0.1 0.1 rg
+/gRLs0 gs
+q
+0.611448 0.791285 -0.791285 0.611448 306 396 cm
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -459.711 0 Tm
+(SYNTHETIC SAMPLE \226 NOT A REAL PATIENT) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+43 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+44 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 45
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000169 00000 n 
+0000000218 00000 n 
+0000000563 00000 n 
+0000007941 00000 n 
+0000008048 00000 n 
+0000008155 00000 n 
+0000008262 00000 n 
+0000008374 00000 n 
+0000008487 00000 n 
+0000008600 00000 n 
+0000008678 00000 n 
+0000008977 00000 n 
+0000016897 00000 n 
+0000017005 00000 n 
+0000017118 00000 n 
+0000017417 00000 n 
+0000018584 00000 n 
+0000018692 00000 n 
+0000018805 00000 n 
+0000019104 00000 n 
+0000034903 00000 n 
+0000035011 00000 n 
+0000035124 00000 n 
+0000035423 00000 n 
+0000048201 00000 n 
+0000048309 00000 n 
+0000048422 00000 n 
+0000048721 00000 n 
+0000053792 00000 n 
+0000053900 00000 n 
+0000054013 00000 n 
+0000054312 00000 n 
+0000069313 00000 n 
+0000069421 00000 n 
+0000069534 00000 n 
+0000069833 00000 n 
+0000077540 00000 n 
+0000077648 00000 n 
+0000077761 00000 n 
+0000078060 00000 n 
+0000079736 00000 n 
+0000079844 00000 n 
+trailer
+<<
+/Size 45
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+79957
+%%EOF

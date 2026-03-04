@@ -1,0 +1,4131 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 8
+/Kids [ 4 0 R 13 0 R 17 0 R 21 0 R 25 0 R 29 0 R 33 0 R 37 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/CA 0.7
+>>
+/gRLs0-0 <<
+/ca 0.2
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F1-1 8 0 R
+/F2 9 0 R
+/F2-0 10 0 R
+/F2-1 11 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6734
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 676.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 11 Tm 17.349 0 Td 12 TL /F2 13 Tf 0 0 0 rg (Sample Metropolitan General Hospital \226) Tj T* 11.934 0 Td (Cardiology & Anticoagulation Clinic) Tj T* -29.283 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 24.84 0 Td (COMPLETE MEDICAL RECORD) Tj T* -24.84 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 10.868 0 Td (1275 University Medical Drive, Room H1-52 | Sample City, ON M4N 3M5) Tj T* -10.868 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 56.484 0 Td (Date: February 23, 2026) Tj T* -56.484 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 15.572 0 Td (Tel: \(555\) 480-4928 | Fax: \(555\) 480-5878 | Anticoag Hotline ext. 2891) Tj T* -15.572 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 18 cm
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 0 m 504 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 666.8 cm
+Q
+q
+1 0 0 1 60 644.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (SECTION 1 \226 CUMULATIVE PATIENT PROFILE \(CPP\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 550.8 cm
+q
+.933333 .956863 .984314 rg
+n 0 90 504 -90 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 76 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Full Name:) Tj /F1 8 Tf ( Jos\351 Encarnaci\363n R\355os Delgado) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 76 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Date of Birth:) Tj /F1 8 Tf ( August 18, 1958 \(Age: 67\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 58 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Health Card \(OHIP\):) Tj /F1 8 Tf ( 6183-029-441 PQ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 58 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Sex / Gender:) Tj /F1 8 Tf ( Male / Man) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Address:) Tj /F1 8 Tf ( 81 Bayview Ridge, Toronto, ON M2L 1A4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Phone:) Tj /F1 8 Tf ( \(416\) 555-0902) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Emergency Contact:) Tj /F1 8 Tf ( Luc\355a Delgado \(wife\) \226 \(416\) 555-0903) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Family Physician:) Tj /F1 8 Tf ( Dr. Felipe Andrade Restrepo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Pharmacy:) Tj /F1 8 Tf ( Shoppers Drug Mart \226 2090 Bayview Ave) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Language:) Tj /F1 8 Tf ( Spanish / English) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 90 m 504 90 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 90 l S
+n 504 0 m 504 90 l S
+.827451 .827451 .827451 RG
+.25 w
+n 0 72 m 504 72 l S
+n 0 54 m 504 54 l S
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 252 0 m 252 90 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 546.3 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 524.3 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (1.1 \226 Active Medical Problems) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 508.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (1. Non-valvular Atrial Fibrillation \226 I48.91 | Dx 2021 | CHA2DS2-VASc 5 \226 HIGH RISK | Warfarin \(INR target 2.0-3.0\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 493.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (2. Ischemic cardiomyopathy post-NSTEMI 2020, mildly reduced EF \(42%\) \226 I25.10.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 478.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (3. Essential Hypertension \226 I10 | Dx 2012 | Triple therapy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 463.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (4. Prior TIA 2022 \226 fully resolved. No residual deficits. Precipitated warfarin initiation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 448.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (5. Type 2 Diabetes Mellitus \226 E11.9 | Dx 2016 | Oral agents.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 433.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (6. Dyslipidaemia \226 E78.5 | Dx 2015.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 418.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (7. Peripheral Arterial Disease, right LE, claudication at 150 m \226 I70.212 | Dx 2023.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 413.8 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 391.8 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 .2 .4 rg (1.2 \226 Past Medical & Surgical History) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 375.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (2020: NSTEMI \226 PCI with DES to LAD. DAPT completed \(12-month course\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 360.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (2022: TIA \(right hemispheric, 15 min, fully resolved\). MRI brain: no infarct. Warfarin started.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 345.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (2023: PAD diagnosis \(ABI 0.72 right\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 330.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (2024: Colonoscopy \226 2 small tubular adenomas removed; repeat colonoscopy due 2027.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 326.3 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 304.3 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (1.3 \226 Allergies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 288.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Aspirin \226 GI intolerance at full dose; low-dose 81 mg tolerated with PPI.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 273.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Sulfa drugs \(TMP-SMX\) \226 rash. Avoid.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 268.8 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 246.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (1.4 \226 Current Medications) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.2 0.2 0.2 RG
+/gRLs0 gs
+0.7 w
+n
+54 164 m
+558 164 l
+S
+0 0 0 rg
+BT
+/F2-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 54 150 Tm
+(DISCLAIMER) Tj
+T*
+ET
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 54 136 Tm
+(This document is a fully synthetic medical record AI generated for software testing and demonstration purposes only\056 All patient data contained herein is) Tj
+T*
+ET
+BT
+1 0 0 1 54 125 Tm
+(fictional\056 Any resemblance to real persons\054 living or dead\054 is purely coincidental\056 Institutional names used in this document are fictional and do not) Tj
+T*
+ET
+BT
+1 0 0 1 54 114 Tm
+(represent real clinical documentation\056 This document must not be used for clinical\054 legal\054 or medical decision\055making purposes\056) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+0.8 0.1 0.1 rg
+/gRLs0-0 gs
+q
+0.611448 0.791285 -0.791285 0.611448 306 396 cm
+BT
+/F2-1 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -459.711 0 Tm
+(SYNTHETIC SAMPLE \226 NOT A REAL PATIENT) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 15 0 R
+/F2 9 0 R
+/F2-0 16 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 7231
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 730.8 cm
+q
+0 .333333 .6 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Current Medication List) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 527.8 cm
+q
+0 .333333 .6 rg
+n 0 200 504 -20 re f*
+1 1 1 rg
+n 0 180 504 -20 re f*
+.941176 .972549 .941176 rg
+n 0 160 504 -20 re f*
+1 1 1 rg
+n 0 140 504 -20 re f*
+.941176 .972549 .941176 rg
+n 0 120 504 -20 re f*
+1 1 1 rg
+n 0 100 504 -20 re f*
+.941176 .972549 .941176 rg
+n 0 80 504 -20 re f*
+1 1 1 rg
+n 0 60 504 -20 re f*
+.941176 .972549 .941176 rg
+n 0 40 504 -20 re f*
+1 1 1 rg
+n 0 20 504 -20 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 185 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Generic Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 185 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Presentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 185 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Dose / Route / Frequency) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 185 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Qty) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 185 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Duration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Warfarin Sodium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (5 mg tablet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (5 mg PO daily at 18:00 \(dose per INR\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (30 tabs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Indefinite \226 AF) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 145 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Metoprolol Succinate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 145 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (100 mg ER tablet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 145 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (100 mg PO once daily) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 145 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (30 tabs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 145 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ongoing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 125 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ramipril) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 125 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (10 mg capsule) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 125 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (10 mg PO once daily) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 125 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (30 caps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 125 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ongoing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Amlodipine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (10 mg tablet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (10 mg PO once daily) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (30 tabs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ongoing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Rosuvastatin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (40 mg tablet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (40 mg PO at bedtime) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (30 tabs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ongoing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Metformin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (1000 mg tablet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (1000 mg PO twice daily with meals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (60 tabs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ongoing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Pantoprazole) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (40 mg tablet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (40 mg PO once daily \(fasting\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (30 tabs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ongoing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 25 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Aspirin low-dose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 25 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (81 mg tablet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 25 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (81 mg PO once daily) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 25 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (30 tabs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 25 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ongoing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Cilostazol) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (100 mg tablet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (100 mg PO twice daily \(PAD\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (60 tabs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ongoing) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.3 w
+n 0 200 m 504 200 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 200 l S
+n 504 0 m 504 200 l S
+n 0 180 m 504 180 l S
+n 0 160 m 504 160 l S
+n 0 140 m 504 140 l S
+n 0 120 m 504 120 l S
+n 0 100 m 504 100 l S
+n 0 80 m 504 80 l S
+n 0 60 m 504 60 l S
+n 0 40 m 504 40 l S
+n 0 20 m 504 20 l S
+n 100.8 0 m 100.8 200 l S
+n 183.6 0 m 183.6 200 l S
+n 345.6 0 m 345.6 200 l S
+n 396 0 m 396 200 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 521.8 cm
+Q
+q
+1 0 0 1 60 517.3 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 495.3 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (1.5 \226 Immunization History) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 479.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Influenza Oct 2025. Pneumococcal PCV15: 2023. COVID-19 boosters through 2024. Shingrix: 2023 \(2-dose\). Td: 2019.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 474.8 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 452.8 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 .2 .4 rg (1.6 \226 Family & Social History) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 436.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Family:) Tj /F1 8.5 Tf ( Father \(\20670, stroke + AF\). Mother \(\20674, MI\). Brother \(65, AF + HTN\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 397.8 cm
+q
+BT 1 0 0 1 0 27.5 Tm .400219 Tw 12 TL /F2 8.5 Tf 0 0 0 rg (Social:) Tj /F1 8.5 Tf ( Retired mechanical engineer. Married 40 yrs. Non-smoker \(ex-smoker 30 pack-years, quit 2012\). Rare social alcohol \(1-2) Tj T* 0 Tw .960133 Tw (drinks/week\). Mediterranean diet \226 consistent green leafy vegetable intake \(important for warfarin stability\). Walking 30 min/day) Tj T* 0 Tw (\(limited by claudication\). Cardiac rehab completed 2021.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.8 0.1 0.1 rg
+/gRLs0 gs
+q
+0.611448 0.791285 -0.791285 0.611448 306 396 cm
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -459.711 0 Tm
+(SYNTHETIC SAMPLE \226 NOT A REAL PATIENT) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 19 0 R
+/F2 9 0 R
+/F2-0 20 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 8247
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 676.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 11 Tm 17.349 0 Td 12 TL /F2 13 Tf 0 0 0 rg (Sample Metropolitan General Hospital \226) Tj T* 11.934 0 Td (Cardiology & Anticoagulation Clinic) Tj T* -29.283 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 33.165 0 Td (ENCOUNTER NOTE \226 SOAP) Tj T* -33.165 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 10.868 0 Td (1275 University Medical Drive, Room H1-52 | Sample City, ON M4N 3M5) Tj T* -10.868 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 56.484 0 Td (Date: February 23, 2026) Tj T* -56.484 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 15.572 0 Td (Tel: \(555\) 480-4928 | Fax: \(555\) 480-5878 | Anticoag Hotline ext. 2891) Tj T* -15.572 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 18 cm
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 0 m 504 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 668.8 cm
+Q
+q
+1 0 0 1 60 646.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (SECTION 2 \226 ENCOUNTER NOTE \(ANTICOAGULATION CLINIC\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 588.8 cm
+q
+.933333 .956863 .984314 rg
+n 0 54 504 -54 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Patient:) Tj /F1 8 Tf ( Jos\351 Encarnaci\363n R\355os Delgado) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (DOB:) Tj /F1 8 Tf ( August 18, 1958) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Visit Date:) Tj /F1 8 Tf ( February 23, 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Visit Type:) Tj /F1 8 Tf ( Scheduled \226 Anticoagulation + Cardiology Review) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Physician:) Tj /F1 8 Tf ( Dr. Felipe Andrade Restrepo, MD FRCPC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (License:) Tj /F1 8 Tf ( MED-ON-65321) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 54 m 504 54 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 54 l S
+n 504 0 m 504 54 l S
+.827451 .827451 .827451 RG
+.25 w
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 252 0 m 252 54 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 584.3 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 562.3 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (S \226 SUBJECTIVE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 546.3 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Chief Complaint:) Tj /F1 8.5 Tf ( "I've been getting more short of breath climbing stairs and my legs feel heavy.") Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 495.3 cm
+q
+BT 1 0 0 1 0 39.5 Tm .723611 Tw 12 TL /F2 8.5 Tf 0 0 0 rg (HPI:) Tj /F1 8.5 Tf ( Mr. R\355os Delgado is a 67-year-old with known non-valvular AF, ischemic cardiomyopathy \(EF 42%\), prior TIA, and multiple) Tj T* 0 Tw .562538 Tw (cardiovascular risk factors presenting for scheduled quarterly anticoagulation review. He reports progressive exertional dyspnoea) Tj T* 0 Tw .535658 Tw (over 4-6 weeks \(perceived NYHA Class III \226 cannot climb 2 flights without stopping; previously Class II\), bilateral lower extremity) Tj T* 0 Tw (heaviness and evening ankle swelling, and 2.1 kg weight gain over 4 weeks. No chest pain, palpitations, presyncope, or bleeding.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 468.3 cm
+q
+BT 1 0 0 1 0 15.5 Tm 2.156933 Tw 12 TL /F2 8.5 Tf 0 0 0 rg (ROS:) Tj /F1 8.5 Tf ( CVS: exertional dyspnoea \(worsening\), bilateral ankle oedema \(new\). Neuro: no new neurological symptoms. GI: no) Tj T* 0 Tw (bleeding. MSK: right calf claudication ~150 m \(was 200 m\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 463.8 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 441.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (O \226 OBJECTIVE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 413.8 cm
+q
+BT 1 0 0 1 0 15.5 Tm .247733 Tw 12 TL /F2 8.5 Tf 0 0 0 rg (Vitals:) Tj /F1 8.5 Tf ( BP 138/86 mmHg | HR 78 bpm \(irregular\) | RR 16/min | SpO2 95% RA | T 36.7 \260C | Wt 84.3 kg \(+2.1 kg in 4 weeks\) | BMI) Tj T* 0 Tw (28.5 kg/m) Tj /F1 6.8 Tf 4.25 Ts (2) Tj /F1 8.5 Tf 0 Ts (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 398.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (CVS:) Tj /F1 8.5 Tf ( Irregular rhythm \(AF\). S3 gallop audible at apex. JVP 6 cm above sternal angle. No murmurs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 383.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Respiratory:) Tj /F1 8.5 Tf ( Bibasilar fine crackles. No wheeze.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 368.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Abdomen:) Tj /F1 8.5 Tf ( Mild hepatomegaly ~1.5 cm. No ascites.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 353.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Lower Extremities:) Tj /F1 8.5 Tf ( 2+ bilateral pitting oedema to mid-calf.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 338.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Neuro:) Tj /F1 8.5 Tf ( GCS 15. No focal deficits.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 334.3 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 312.3 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (A \226 ASSESSMENT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 284.3 cm
+q
+BT 1 0 0 1 0 15.5 Tm 3.654176 Tw 12 TL /F1 8.5 Tf 0 0 0 rg (1. ) Tj /F2 8.5 Tf (Decompensated CHF \(HFmrEF, EF 42%\)) Tj /F1 8.5 Tf ( \226 S3, elevated JVP, crackles, oedema, 2.1 kg weight gain. Likely AF) Tj T* 0 Tw (tachycardia-related + ischaemic progression. Echocardiogram ordered.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 257.3 cm
+q
+BT 1 0 0 1 0 15.5 Tm 1.654526 Tw 12 TL /F1 8.5 Tf 0 0 0 rg (2. ) Tj /F2 8.5 Tf (AF \226 rate controlled, ongoing anticoagulation) Tj /F1 8.5 Tf ( \226 INR 2.6 \(last check 4 weeks ago\) \226 therapeutic. CHA2DS2-VASc 5 \226) Tj T* 0 Tw (indefinite anticoagulation. Warfarin continued.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 242.3 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F1 8.5 Tf 0 0 0 rg (3. ) Tj /F2 8.5 Tf (HTN \226 slightly above target) Tj /F1 8.5 Tf ( \226 likely CHF-related. Monitor post-diuretic adjustment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 227.3 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F1 8.5 Tf 0 0 0 rg (4. ) Tj /F2 8.5 Tf (PAD \226 progressive) Tj /F1 8.5 Tf ( \226 claudication worsening \(200 ) Tj /F3 8.5 Tf 12 TL (\256) Tj /F1 8.5 Tf 12 TL ( 150 m\). Vascular surgery referral to be placed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 212.3 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F1 8.5 Tf 0 0 0 rg (5. ) Tj /F2 8.5 Tf (T2DM \226 stable) Tj /F1 8.5 Tf (. HbA1c ordered.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 207.8 cm
+q
+.5 w
+1 J
+0 .2 .4 RG
+n 0 0 m 492 0 l S
+Q
+Q
+q
+1 0 0 1 60 185.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (P \226 PLAN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 169.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (1. Furosemide: increase 40 ) Tj /F3 8.5 Tf 12 TL (\256) Tj /F1 8.5 Tf 12 TL ( 80 mg PO daily \327 5 days, then reassess weight.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 154.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (2. Daily weight monitoring: call clinic if weight increases >2 kg in 2 days.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 139.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (3. INR today \(see labs\). Warfarin 5 mg maintained if INR 2.0-3.0.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 124.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (4. Echocardiogram \226 PRIORITY within 7 days.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 109.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (5. 24-hour Holter monitor \226 routine within 2 weeks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 94.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (6. Labs: INR, HbA1c, CBC, BMP \(Cr + electrolytes \226 diuretic dose increase\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 79.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (7. Warfarin counselling: INR schedule, dietary vitamin K consistency, drug interactions, bleeding signs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 64.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F1 8.5 Tf 0 0 0 rg (8. Sodium restriction: <) Tj (2 g/day.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 49.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (9. Return in 1 week \(or sooner if worsening\).) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.8 0.1 0.1 rg
+/gRLs0 gs
+q
+0.611448 0.791285 -0.791285 0.611448 306 396 cm
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -459.711 0 Tm
+(SYNTHETIC SAMPLE \226 NOT A REAL PATIENT) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+19 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 23 0 R
+/F2 9 0 R
+/F2-0 24 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 1133
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 728.8 cm
+Q
+q
+1 0 0 1 54 648.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 142.028 0 Td (____________________________________________) Tj T* -142.028 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL 163.822 0 Td (Dr. Felipe Andrade Restrepo, MD FRCPC) Tj T* -163.822 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 190.733 0 Td (License No.: MED-ON-65321) Tj T* -190.733 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 113.2555 0 Td (Internal Medicine / Cardiology \226 Sample Metropolitan General Hospital) Tj T* -113.2555 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 199.9342 0 Td (Date: February 23, 2026) Tj T* -199.9342 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.8 0.1 0.1 rg
+/gRLs0 gs
+q
+0.611448 0.791285 -0.791285 0.611448 306 396 cm
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -459.711 0 Tm
+(SYNTHETIC SAMPLE \226 NOT A REAL PATIENT) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+25 0 obj
+<<
+/Contents 26 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 27 0 R
+/F2 9 0 R
+/F2-0 28 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 7140
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 676.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 11 Tm 17.349 0 Td 12 TL /F2 13 Tf 0 0 0 rg (Sample Metropolitan General Hospital \226) Tj T* 11.934 0 Td (Cardiology & Anticoagulation Clinic) Tj T* -29.283 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 40 cm
+q
+BT 1 0 0 1 0 14 Tm 22.335 0 Td 12 TL /F2 10 Tf 0 0 0 rg (LABORATORY & SPECIAL TEST) Tj T* 56.115 0 Td (ORDERS) Tj T* -78.45 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 10.868 0 Td (1275 University Medical Drive, Room H1-52 | Sample City, ON M4N 3M5) Tj T* -10.868 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 56.484 0 Td (Date: February 23, 2026) Tj T* -56.484 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 15.572 0 Td (Tel: \(555\) 480-4928 | Fax: \(555\) 480-5878 | Anticoag Hotline ext. 2891) Tj T* -15.572 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 18 cm
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 0 m 504 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 668.8 cm
+Q
+q
+1 0 0 1 60 646.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (SECTION 3 \226 LABORATORY AND SPECIAL TEST ORDERS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 588.8 cm
+q
+.933333 .956863 .984314 rg
+n 0 54 504 -54 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Patient:) Tj /F1 8 Tf ( Jos\351 Encarnaci\363n R\355os Delgado) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (DOB:) Tj /F1 8 Tf ( August 18, 1958) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (OHIP:) Tj /F1 8 Tf ( 6183-029-441 PQ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Date:) Tj /F1 8 Tf ( February 23, 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Priority:) Tj /F1 8 Tf ( Labs today; imaging within 7 days) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Physician:) Tj /F1 8 Tf ( Dr. Felipe Andrade Restrepo, MD FRCPC) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 54 m 504 54 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 54 l S
+n 504 0 m 504 54 l S
+.827451 .827451 .827451 RG
+.25 w
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 252 0 m 252 54 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 580.8 cm
+Q
+q
+1 0 0 1 60 562.8 cm
+q
+0 .333333 .6 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Tests Ordered) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 369.8 cm
+q
+0 .2 .4 rg
+n 0 190 504 -20 re f*
+1 1 1 rg
+n 0 170 504 -30 re f*
+.960784 .972549 .988235 rg
+n 0 140 504 -20 re f*
+1 1 1 rg
+n 0 120 504 -30 re f*
+.960784 .972549 .988235 rg
+n 0 90 504 -30 re f*
+1 1 1 rg
+n 0 60 504 -30 re f*
+.960784 .972549 .988235 rg
+n 0 30 504 -30 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 175 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Test) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.8 175 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Priority) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 175 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Clinical Indication) Tj T* ET
+Q
+Q
+q
+1 0 0 1 429.8 175 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Type) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 155 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (INR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.8 155 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (URGENT \226 today) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 145 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Warfarin monitoring. Target 2.0-3.0. CHF may alter) Tj T* (levels.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 429.8 155 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Lab) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 125 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (HbA1c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.8 125 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (ROUTINE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 125 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Quarterly T2DM monitoring.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 429.8 125 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Lab) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (CBC with differential) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.8 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (ROUTINE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 95 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Anaemia screening; thrombocytopaenia monitoring) Tj T* (\(warfarin\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 429.8 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Lab) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (BMP: Cr, BUN, Na, K, HCO3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.8 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (ROUTINE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Monitor for hypokalaemia + renal function with) Tj T* (furosemide dose increase.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 429.8 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Lab) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 35 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Transthoracic Echocardiogram) Tj T* (\(TTE\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.8 35 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (PRIORITY within 7) Tj T* (days) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 35 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Reassess EF, diastolic function, valvular disease. CHF) Tj T* (decompensation workup.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 429.8 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Imaging) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (24-h Holter Monitor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.8 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (ROUTINE within 2) Tj T* (weeks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221 5 cm
+q
+BT 1 0 0 1 0 12 Tm 10 TL /F1 8 Tf 0 0 0 rg (AF burden; rate control adequacy \(target HR <) Tj (80 bpm) Tj T* (at rest\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 429.8 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Special) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.3 w
+n 0 190 m 504 190 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 190 l S
+n 504 0 m 504 190 l S
+n 0 170 m 504 170 l S
+n 0 140 m 504 140 l S
+n 0 120 m 504 120 l S
+n 0 90 m 504 90 l S
+n 0 60 m 504 60 l S
+n 0 30 m 504 30 l S
+n 136.8 0 m 136.8 190 l S
+n 216 0 m 216 190 l S
+n 424.8 0 m 424.8 190 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 361.8 cm
+Q
+q
+1 0 0 1 60 347.8 cm
+Q
+q
+1 0 0 1 54 267.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 142.028 0 Td (____________________________________________) Tj T* -142.028 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL 163.822 0 Td (Dr. Felipe Andrade Restrepo, MD FRCPC) Tj T* -163.822 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 190.733 0 Td (License No.: MED-ON-65321) Tj T* -190.733 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 113.2555 0 Td (Internal Medicine / Cardiology \226 Sample Metropolitan General Hospital) Tj T* -113.2555 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 199.9342 0 Td (Date: February 23, 2026) Tj T* -199.9342 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.8 0.1 0.1 rg
+/gRLs0 gs
+q
+0.611448 0.791285 -0.791285 0.611448 306 396 cm
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -459.711 0 Tm
+(SYNTHETIC SAMPLE \226 NOT A REAL PATIENT) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+27 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+28 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+29 0 obj
+<<
+/Contents 30 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 31 0 R
+/F2 9 0 R
+/F2-0 32 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+30 0 obj
+<<
+/Length 16300
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 676.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 11 Tm 17.349 0 Td 12 TL /F2 13 Tf 0 0 0 rg (Sample Metropolitan General Hospital \226) Tj T* 11.934 0 Td (Cardiology & Anticoagulation Clinic) Tj T* -29.283 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 17.615 0 Td (LABORATORY RESULTS REPORT) Tj T* -17.615 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 10.868 0 Td (1275 University Medical Drive, Room H1-52 | Sample City, ON M4N 3M5) Tj T* -10.868 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 56.484 0 Td (Date: February 23, 2026) Tj T* -56.484 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 15.572 0 Td (Tel: \(555\) 480-4928 | Fax: \(555\) 480-5878 | Anticoag Hotline ext. 2891) Tj T* -15.572 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 18 cm
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 0 m 504 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 668.8 cm
+Q
+q
+1 0 0 1 60 646.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (SECTION 4 \226 LABORATORY RESULTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 588.8 cm
+q
+.933333 .956863 .984314 rg
+n 0 54 504 -54 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Patient:) Tj /F1 8 Tf ( Jos\351 Encarnaci\363n R\355os Delgado) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (DOB:) Tj /F1 8 Tf ( August 18, 1958) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (OHIP:) Tj /F1 8 Tf ( 6183-029-441 PQ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Collection Date:) Tj /F1 8 Tf ( February 23, 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Collection Time:) Tj /F1 8 Tf ( 10:20 AM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Lab #:) Tj /F1 8 Tf ( SHSC-2026-0223-7821) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 54 m 504 54 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 54 l S
+n 504 0 m 504 54 l S
+.827451 .827451 .827451 RG
+.25 w
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 252 0 m 252 54 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 582.8 cm
+Q
+q
+1 0 0 1 60 564.8 cm
+q
+0 .333333 .6 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Anticoagulation Panel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 489.8 cm
+q
+0 .2 .4 rg
+n 0 72 504 -18 re f*
+1 1 1 rg
+n 0 54 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 36 504 -18 re f*
+1 1 1 rg
+n 0 18 504 -18 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 58 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Test) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 58 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 58 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Reference Range) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 58 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Units) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 58 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Flag) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (INR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (2.6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (2.0 \226 3.0 \(AF target\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (\226) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (PT) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (29.4 s) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (11.0 \226 14.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (sec) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (H) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (aPTT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (34.2 s) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (25.0 \226 37.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (sec) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.3 w
+n 0 72 m 504 72 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 72 l S
+n 504 0 m 504 72 l S
+n 0 54 m 504 54 l S
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 183.6 0 m 183.6 72 l S
+n 273.6 0 m 273.6 72 l S
+n 388.8 0 m 388.8 72 l S
+n 453.6 0 m 453.6 72 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 483.8 cm
+Q
+q
+1 0 0 1 60 465.8 cm
+q
+0 .333333 .6 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Complete Blood Count \(CBC\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 318.8 cm
+q
+0 .2 .4 rg
+n 0 144 504 -18 re f*
+1 1 1 rg
+n 0 126 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 108 504 -18 re f*
+1 1 1 rg
+n 0 90 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 72 504 -18 re f*
+1 1 1 rg
+n 0 54 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 36 504 -18 re f*
+1 1 1 rg
+n 0 18 504 -18 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 130 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Test) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 130 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 130 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Reference Range) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 130 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Units) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 130 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Flag) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (WBC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 112 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (8.1 x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (4.0 \226 11.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 112 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (RBC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 94 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (4.4 x10) Tj /F1 6.4 Tf 4 Ts (12) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (4.2 \226 5.8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 94 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (x10) Tj /F1 6.4 Tf 4 Ts (12) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Hemoglobin) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (13.2 g/dL) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (13.5 \226 17.5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (g/dL) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (L) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Hematocrit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (40.0 %) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (39.0 \226 51.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (MCV) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (88.2 fL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (80.0 \226 100.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (fL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Platelets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (198 x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (150 \226 400) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Neutrophils) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (5.9 x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (1.8 \226 7.7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (x10) Tj /F1 6.4 Tf 4 Ts (9) Tj /F1 8 Tf 0 Ts (/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.3 w
+n 0 144 m 504 144 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 144 l S
+n 504 0 m 504 144 l S
+n 0 126 m 504 126 l S
+n 0 108 m 504 108 l S
+n 0 90 m 504 90 l S
+n 0 72 m 504 72 l S
+n 0 54 m 504 54 l S
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 183.6 0 m 183.6 144 l S
+n 273.6 0 m 273.6 144 l S
+n 388.8 0 m 388.8 144 l S
+n 453.6 0 m 453.6 144 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 312.8 cm
+Q
+q
+1 0 0 1 60 294.8 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F2 9 Tf 0 .333333 .6 rg (Metabolic Panel & Renal Function) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 111.8 cm
+q
+0 .2 .4 rg
+n 0 180 504 -18 re f*
+1 1 1 rg
+n 0 162 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 144 504 -18 re f*
+1 1 1 rg
+n 0 126 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 108 504 -18 re f*
+1 1 1 rg
+n 0 90 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 72 504 -18 re f*
+1 1 1 rg
+n 0 54 504 -18 re f*
+.960784 .972549 .988235 rg
+n 0 36 504 -18 re f*
+1 1 1 rg
+n 0 18 504 -18 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 166 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Test) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 166 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 166 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Reference Range) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 166 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Units) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 166 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Flag) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Creatinine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (1.18 mg/dL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (0.7 \226 1.3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mg/dL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (BUN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (22 mg/dL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (7 \226 25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mg/dL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 130 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (eGFR \(CKD-EPI\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (62 mL/min/1.73m2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL /F3 8 Tf 10 TL (\263) Tj /F1 8 Tf 10 TL ( 60) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mL/min) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sodium \(Na\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (140 mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (136 \226 145) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Potassium \(K\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (4.0 mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3.5 \226 5.1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 76 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Chloride) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (103 mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (98 \226 107) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (HCO3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (24 mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 278.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (22 \226 29) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 458.6 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Glucose \(fast\)) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (7.2 mmol/L) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3.9 \226 6.1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (mmol/L) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (H) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (HbA1c) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 188.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (7.2 %) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 278.6 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (<) Tj (7.0% \(DM\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 393.8 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (%) Tj T* ET
+Q
+Q
+1 0 0 rg
+BT /F2 8 Tf 12 TL ET
+q
+1 0 0 1 458.6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (H) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.3 w
+n 0 180 m 504 180 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 180 l S
+n 504 0 m 504 180 l S
+n 0 162 m 504 162 l S
+n 0 144 m 504 144 l S
+n 0 126 m 504 126 l S
+n 0 108 m 504 108 l S
+n 0 90 m 504 90 l S
+n 0 72 m 504 72 l S
+n 0 54 m 504 54 l S
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 183.6 0 m 183.6 180 l S
+n 273.6 0 m 273.6 180 l S
+n 388.8 0 m 388.8 180 l S
+n 453.6 0 m 453.6 180 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 105.8 cm
+Q
+q
+1 0 0 1 60 93.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (ECHOCARDIOGRAM REPORT \(Sample Metropolitan General Hospital Cardiac Imaging \226 ECHO-2026-0223-4411\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 80.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F2 8.5 Tf 0 0 0 rg (Indication:) Tj /F1 8.5 Tf ( CHF decompensation; reassessment of EF and haemodynamic status.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 53.8 cm
+q
+BT 1 0 0 1 0 15.5 Tm -0.011474 Tw 12 TL /F2 8.5 Tf 0 0 0 rg (Findings:) Tj /F1 8.5 Tf ( LV mildly dilated with mildly reduced systolic function; EF 42% \(down from 45% in 2024\). Mild global hypokinesis. Grade) Tj T* 0 Tw .6575 Tw (II diastolic dysfunction \(E/e' 14\). Mild mitral regurgitation. No significant aortic stenosis. RV normal size and function. IVC dilated) Tj T* 0 Tw ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.8 0.1 0.1 rg
+/gRLs0 gs
+q
+0.611448 0.791285 -0.791285 0.611448 306 396 cm
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -459.711 0 Tm
+(SYNTHETIC SAMPLE \226 NOT A REAL PATIENT) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+31 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+32 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+33 0 obj
+<<
+/Contents 34 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 35 0 R
+/F2 9 0 R
+/F2-0 36 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 796
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 730.8 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12 TL /F1 8.5 Tf 0 0 0 rg (2.4 cm; collapsibility <) Tj (50% \(elevated RAP\). No pericardial effusion.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 703.8 cm
+q
+BT 1 0 0 1 0 15.5 Tm 2.377933 Tw 12 TL /F2 8.5 Tf 0 0 0 rg (Impression:) Tj /F1 8.5 Tf ( Ischemic cardiomyopathy with mildly reduced EF \(42%\), grade II diastolic dysfunction, dilated IVC \226 findings) Tj T* 0 Tw (consistent with decompensated HFmrEF. Optimise diuretic and neurohormonal therapy.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.8 0.1 0.1 rg
+/gRLs0 gs
+q
+0.611448 0.791285 -0.791285 0.611448 306 396 cm
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -459.711 0 Tm
+(SYNTHETIC SAMPLE \226 NOT A REAL PATIENT) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+35 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+37 0 obj
+<<
+/Contents 38 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 39 0 R
+/F2 9 0 R
+/F2-0 40 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+38 0 obj
+<<
+/Length 10885
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 676.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 11 Tm 17.349 0 Td 12 TL /F2 13 Tf 0 0 0 rg (Sample Metropolitan General Hospital \226) Tj T* 11.934 0 Td (Cardiology & Anticoagulation Clinic) Tj T* -29.283 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 17.89 0 Td (OUTPATIENT PRESCRIPTION \(Rx\)) Tj T* -17.89 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 10.868 0 Td (1275 University Medical Drive, Room H1-52 | Sample City, ON M4N 3M5) Tj T* -10.868 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 23 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 56.484 0 Td (Date: February 23, 2026) Tj T* -56.484 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 6 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 15.572 0 Td (Tel: \(555\) 480-4928 | Fax: \(555\) 480-5878 | Anticoag Hotline ext. 2891) Tj T* -15.572 0 Td ET
+Q
+Q
+q
+1 0 0 1 298.32 18 cm
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 0 m 504 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 668.8 cm
+Q
+q
+1 0 0 1 60 646.8 cm
+q
+0 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (SECTION 5 \226 OUTPATIENT MEDICATION PRESCRIPTION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 588.8 cm
+q
+.933333 .956863 .984314 rg
+n 0 54 504 -54 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Patient:) Tj /F1 8 Tf ( Jos\351 Encarnaci\363n R\355os Delgado) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 40 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (DOB:) Tj /F1 8 Tf ( August 18, 1958) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (OHIP:) Tj /F1 8 Tf ( 6183-029-441 PQ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 22 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Date:) Tj /F1 8 Tf ( February 23, 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (Physician:) Tj /F1 8 Tf ( Dr. Felipe Andrade Restrepo, MD FRCPC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 258 4 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf 0 0 0 rg (License:) Tj /F1 8 Tf ( MED-ON-65321) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 .2 .4 RG
+.5 w
+n 0 54 m 504 54 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 54 l S
+n 504 0 m 504 54 l S
+.827451 .827451 .827451 RG
+.25 w
+n 0 36 m 504 36 l S
+n 0 18 m 504 18 l S
+n 252 0 m 252 54 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 580.8 cm
+Q
+q
+1 0 0 1 60 562.8 cm
+q
+0 .333333 .6 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Complete Outpatient Medication Prescription) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 309.8 cm
+q
+0 .333333 .6 rg
+n 0 250 504 -20 re f*
+1 1 1 rg
+n 0 230 504 -40 re f*
+.941176 .972549 .941176 rg
+n 0 190 504 -30 re f*
+1 1 1 rg
+n 0 160 504 -20 re f*
+.941176 .972549 .941176 rg
+n 0 140 504 -20 re f*
+1 1 1 rg
+n 0 120 504 -20 re f*
+.941176 .972549 .941176 rg
+n 0 100 504 -20 re f*
+1 1 1 rg
+n 0 80 504 -30 re f*
+.941176 .972549 .941176 rg
+n 0 50 504 -30 re f*
+1 1 1 rg
+n 0 20 504 -20 re f*
+0 0 0 rg
+BT /F1 8 Tf 12 TL ET
+q
+1 0 0 1 5 235 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Generic Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 235 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Presentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 235 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Dose / Route / Frequency) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 235 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Qty) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 235 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Duration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 215 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Warfarin Sodium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 215 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (5 mg tablet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 22 Tm /F1 8 Tf 10 TL (5 mg PO at 18:00 daily. Dose adjusted per) Tj T* (INR \(current INR 2.6 \226 therapeutic\). Target) Tj T* (2.0-3.0.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 215 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (30 tabs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 205 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Indefinite \226 AF) Tj T* (anticoagulation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 175 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Furosemide) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 175 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (40 mg tablet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (80 mg PO once daily \(AM\) \327 5 days, then) Tj T* (40 mg PO once daily. Monitor weight.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 175 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (45 tabs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Ongoing \226 adjust per) Tj T* (volume status) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 145 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Metoprolol Succinate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 145 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (100 mg ER tablet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 145 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (100 mg PO once daily \(rate control \226 AF\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 145 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (30 tabs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 145 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ongoing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 125 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ramipril) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 125 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (10 mg capsule) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 125 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (10 mg PO once daily \(CHF + HTN\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 125 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (30 caps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 125 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ongoing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Amlodipine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (10 mg tablet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (10 mg PO once daily \(HTN\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (30 tabs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ongoing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Rosuvastatin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (40 mg tablet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (40 mg PO at bedtime) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (30 tabs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ongoing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Metformin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (1000 mg tablet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 55 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (1000 mg PO twice daily with meals) Tj T* (\(T2DM\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (60 tabs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 65 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ongoing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 35 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Pantoprazole) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 35 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (40 mg tablet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 25 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (40 mg PO once daily fasting \(GI) Tj T* (prophylaxis\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 35 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (30 tabs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 35 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ongoing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Aspirin low-dose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.8 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (81 mg tablet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 188.6 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (81 mg PO once daily \(post-NSTEMI/PCI\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 350.6 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (30 tabs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Ongoing) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.3 w
+n 0 250 m 504 250 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 250 l S
+n 504 0 m 504 250 l S
+n 0 230 m 504 230 l S
+n 0 190 m 504 190 l S
+n 0 160 m 504 160 l S
+n 0 140 m 504 140 l S
+n 0 120 m 504 120 l S
+n 0 100 m 504 100 l S
+n 0 80 m 504 80 l S
+n 0 50 m 504 50 l S
+n 0 20 m 504 20 l S
+n 100.8 0 m 100.8 250 l S
+n 183.6 0 m 183.6 250 l S
+n 345.6 0 m 345.6 250 l S
+n 396 0 m 396 250 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 303.8 cm
+Q
+q
+1 0 0 1 60 295.8 cm
+Q
+q
+1 0 0 1 60 283.8 cm
+q
+1 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL (WARFARIN MONITORING INSTRUCTIONS:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 269.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (\177 Current INR: 2.6 \226 THERAPEUTIC. Maintain Warfarin 5 mg daily.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 254.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (\177 Next INR: in 4 weeks, or sooner if new medications, illness, or significant dietary change.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 239.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (\177 Keep dietary Vitamin K intake CONSISTENT \(do not suddenly change green leafy vegetable intake\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 212.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL 2.1835 Tw (\177 SIGNS OF OVER-ANTICOAGULATION \(INR >3\): unusual bruising, prolonged bleeding, blood in urine, black/tarry stools,) Tj T* 0 Tw (coughing blood \226 attend ED immediately.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 185.8 cm
+q
+BT 1 0 0 1 0 15.5 Tm .329893 Tw 12 TL /F1 8.5 Tf 0 0 0 rg (\177 SIGNS OF UNDER-ANTICOAGULATION \(INR <) Tj (2\): stroke symptoms \(sudden weakness, speech difficulty, face drooping, vision) Tj T* 0 Tw (changes\) \226 call 911 immediately.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 158.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL .894281 Tw (\177 DRUG INTERACTIONS: notify clinic before starting ANY new medication including OTC drugs \(NSAIDs, vitamin E, antibiotics) Tj T* 0 Tw (significantly affect INR\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 141.8 cm
+Q
+q
+1 0 0 1 54 61.8 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 142.028 0 Td (____________________________________________) Tj T* -142.028 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 8.5 Tf 12 TL 163.822 0 Td (Dr. Felipe Andrade Restrepo, MD FRCPC) Tj T* -163.822 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 190.733 0 Td (License No.: MED-ON-65321) Tj T* -190.733 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 113.2555 0 Td (Internal Medicine / Cardiology \226 Sample Metropolitan General Hospital) Tj T* -113.2555 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL 199.9342 0 Td (Date: February 23, 2026) Tj T* -199.9342 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.8 0.1 0.1 rg
+/gRLs0 gs
+q
+0.611448 0.791285 -0.791285 0.611448 306 396 cm
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -459.711 0 Tm
+(SYNTHETIC SAMPLE \226 NOT A REAL PATIENT) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+39 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+40 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 41
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000162 00000 n 
+0000000211 00000 n 
+0000000554 00000 n 
+0000007340 00000 n 
+0000007447 00000 n 
+0000007554 00000 n 
+0000007661 00000 n 
+0000007773 00000 n 
+0000007886 00000 n 
+0000007999 00000 n 
+0000008077 00000 n 
+0000008375 00000 n 
+0000015659 00000 n 
+0000015767 00000 n 
+0000015880 00000 n 
+0000016178 00000 n 
+0000024478 00000 n 
+0000024586 00000 n 
+0000024699 00000 n 
+0000024997 00000 n 
+0000026183 00000 n 
+0000026291 00000 n 
+0000026404 00000 n 
+0000026702 00000 n 
+0000033895 00000 n 
+0000034003 00000 n 
+0000034116 00000 n 
+0000034414 00000 n 
+0000050768 00000 n 
+0000050876 00000 n 
+0000050989 00000 n 
+0000051287 00000 n 
+0000052135 00000 n 
+0000052243 00000 n 
+0000052356 00000 n 
+0000052654 00000 n 
+0000063593 00000 n 
+0000063701 00000 n 
+trailer
+<<
+/Size 41
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+63814
+%%EOF
