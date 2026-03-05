@@ -436,4 +436,5 @@ The only difference between EMR #03 and the others is that extra PageBreak() lin
 
 ### Technical Stack
 #### Programming Language
-This project was builded with vibe code in Python using Claude. 
+This project was built in Python using Claude, a large language model (LLM).  
+A subject matter expert in medicine designed the prompts and refined the outputs, but all code generation was performed via Claude.
