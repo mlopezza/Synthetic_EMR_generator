@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Medical Synthetic Data Prompt Structure</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --silver: #C0C0C0;
+    --whitesmoke: #F5F5F5;
+    --olivedrab: #6B8E23;
+    --olive: #808000;
+    --darkkhaki: #BDB76B;
+    --beige: #F5F5DC;
+    --text-dark: #1a1a0f;
+    --text-med: #2d2d10;
+    --accent: #4a5e00;
+    --border: #8a9a3a;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background-color: var(--whitesmoke);
+    font-family: 'Source Sans 3', sans-serif;
+    color: var(--text-dark);
+    min-height: 100vh;
+  }
+
+  .page {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 40px 30px 60px;
+  }
+
+  /* HEADER */
+  .header {
+    background: linear-gradient(135deg, var(--olive) 0%, var(--olivedrab) 60%, var(--darkkhaki) 100%);
+    border-radius: 16px;
+    padding: 40px 48px;
+    margin-bottom: 36px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 8px 32px rgba(107,142,35,0.18);
+  }
+  .header::before {
+    content: '';
+    position: absolute;
+    top: -40px; right: -40px;
+    width: 220px; height: 220px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.08);
+  }
+  .header::after {
+    content: '';
+    position: absolute;
+    bottom: -60px; left: 60px;
+    width: 160px; height: 160px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.05);
+  }
+  .header-top {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 10px;
+  }
+  .header-icon {
+    font-size: 2.4rem;
+    line-height: 1;
+  }
+  .header-label {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--darkkhaki);
+    background: rgba(0,0,0,0.18);
+    padding: 4px 12px;
+    border-radius: 20px;
+  }
+  .header h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.2rem;
+    font-weight: 900;
+    color: var(--whitesmoke);
+    line-height: 1.2;
+    position: relative;
+    z-index: 1;
+  }
+  .header h1 span {
+    color: var(--beige);
+  }
+  .header-sub {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: rgba(245,245,220,0.85);
+    font-weight: 400;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* GRID LAYOUT */
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  .grid-3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+  }
+  .span2 { grid-column: span 2; }
+
+  /* STEP CARD */
+  .card {
+    background: var(--beige);
+    border: 1.5px solid var(--darkkhaki);
+    border-radius: 12px;
+    padding: 22px 22px 20px;
+    position: relative;
+    transition: box-shadow 0.2s;
+  }
+  .card:hover {
+    box-shadow: 0 4px 20px rgba(107,142,35,0.13);
+  }
+  .card-accent {
+    background: linear-gradient(135deg, #f0eedc 0%, var(--beige) 100%);
+    border-color: var(--olivedrab);
+  }
+  .card-dark {
+    background: linear-gradient(135deg, #e8e6d0 0%, #dddbc8 100%);
+    border-color: var(--olive);
+  }
+
+  .step-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    background: var(--olivedrab);
+    color: var(--whitesmoke);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding: 4px 11px 4px 8px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+  }
+  .step-badge .num {
+    background: rgba(255,255,255,0.22);
+    border-radius: 50%;
+    width: 20px; height: 20px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.75rem;
+    font-weight: 900;
+  }
+
+  .card h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--accent);
+    margin-bottom: 10px;
+    line-height: 1.25;
+  }
+
+  ul.items {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  ul.items li {
+    font-size: 0.84rem;
+    color: var(--text-med);
+    line-height: 1.45;
+    padding-left: 16px;
+    position: relative;
+  }
+  ul.items li::before {
+    content: '▸';
+    position: absolute;
+    left: 0;
+    color: var(--olivedrab);
+    font-size: 0.7rem;
+    top: 2px;
+  }
+
+  /* SUBSECTION within card */
+  .subsection {
+    margin-top: 10px;
+    padding: 10px 12px;
+    background: rgba(107,142,35,0.07);
+    border-left: 3px solid var(--olivedrab);
+    border-radius: 0 6px 6px 0;
+  }
+  .subsection h3 {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--olive);
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    margin-bottom: 6px;
+  }
+
+  /* EXAMPLE BOX */
+  .example-box {
+    background: rgba(192,192,192,0.18);
+    border: 1px dashed var(--silver);
+    border-radius: 6px;
+    padding: 8px 12px;
+    margin-top: 8px;
+    font-size: 0.78rem;
+    color: #555540;
+    font-style: italic;
+    line-height: 1.5;
+  }
+  .example-box strong {
+    font-style: normal;
+    font-weight: 700;
+    color: var(--olive);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    display: block;
+    margin-bottom: 3px;
+  }
+
+  /* PILL TAGS */
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 8px;
+  }
+  .tag {
+    font-size: 0.73rem;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 20px;
+    background: var(--darkkhaki);
+    color: var(--text-dark);
+    letter-spacing: 0.3px;
+  }
+  .tag-outline {
+    background: transparent;
+    border: 1.5px solid var(--olivedrab);
+    color: var(--accent);
+  }
+
+  /* DIVIDER */
+  .divider {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 24px 0;
+  }
+  .divider-line {
+    flex: 1;
+    height: 1.5px;
+    background: linear-gradient(to right, transparent, var(--darkkhaki), transparent);
+  }
+  .divider-label {
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--olive);
+    white-space: nowrap;
+  }
+
+  /* SECTION TITLE */
+  .section-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--accent);
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .section-title::after {
+    content: '';
+    flex: 1;
+    height: 1.5px;
+    background: linear-gradient(to right, var(--darkkhaki), transparent);
+  }
+
+  /* STRUCTURE CARD (for doc structure) */
+  .struct-block {
+    background: var(--beige);
+    border: 1.5px solid var(--darkkhaki);
+    border-radius: 10px;
+    padding: 16px 18px;
+  }
+  .struct-block h3 {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--whitesmoke);
+    background: var(--olive);
+    padding: 5px 12px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: inline-block;
+  }
+
+  /* FOOTER */
+  .footer {
+    margin-top: 36px;
+    text-align: center;
+    padding: 18px;
+    border-top: 1.5px solid var(--darkkhaki);
+    font-size: 0.75rem;
+    color: #888866;
+    letter-spacing: 0.5px;
+  }
+  .footer strong {
+    color: var(--olivedrab);
+  }
+
+  /* ACCESSIBILITY: pattern stripe for color-blind */
+  .cb-stripe {
+    background-image: repeating-linear-gradient(
+      45deg,
+      transparent,
+      transparent 4px,
+      rgba(0,0,0,0.04) 4px,
+      rgba(0,0,0,0.04) 8px
+    );
+  }
+
+  .highlight-bar {
+    background: linear-gradient(90deg, var(--olivedrab), var(--darkkhaki));
+    height: 4px;
+    border-radius: 2px;
+    margin-bottom: 14px;
+  }
+
+  /* ICON CIRCLE */
+  .icon-circle {
+    width: 36px; height: 36px;
+    border-radius: 50%;
+    background: var(--olivedrab);
+    color: white;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.1rem;
+    flex-shrink: 0;
+  }
+
+  @media (max-width: 700px) {
+    .grid, .grid-3 { grid-template-columns: 1fr; }
+    .span2 { grid-column: span 1; }
+    .header h1 { font-size: 1.5rem; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="header-top">
+      <div class="header-icon">🧩</div>
+      <span class="header-label">Prompt Engineering Guide</span>
+    </div>
+    <h1>Step-by-Step Structure to Build a<br><span>Complex Medical Synthetic Data Prompt</span></h1>
+    <p class="header-sub">12 structured steps for generating realistic, complete Electronic Medical Records (EMR) with AI</p>
+  </div>
+
+  <!-- STEPS 1–3 -->
+  <div class="section-title">🔵 Foundation &amp; Role Setup</div>
+  <div class="grid" style="margin-bottom:20px;">
+
+    <div class="card card-accent">
+      <div class="step-badge"><span class="num">1</span> Step 1</div>
+      <h2>Define the General Context</h2>
+      <ul class="items">
+        <li>Explain what you are building</li>
+        <li>Clarify the purpose of the project</li>
+        <li>Specify that the data must be <strong>synthetic</strong></li>
+        <li>Indicate how the data will be used</li>
+        <li>Define the required language</li>
+      </ul>
+      <div class="example-box">
+        <strong>Structural Example</strong>
+        "I am developing an app that…" · "I need synthetic EMR data to…" · "All content must be written in English."
+      </div>
+    </div>
+
+    <div class="card card-accent">
+      <div class="step-badge"><span class="num">2</span> Step 2</div>
+      <h2>Clearly Define the LLM's Task</h2>
+      <ul class="items">
+        <li>Explicitly state what the model must generate</li>
+        <li>Specify the document type (e.g., complete EMR)</li>
+        <li>Indicate required level of detail</li>
+        <li>Clarify it must simulate a real clinical document</li>
+        <li>State that Assessment &amp; Plan sections are <strong>mandatory</strong></li>
+      </ul>
+      <div class="example-box">
+        <strong>Structural Example</strong>
+        "The LLM must generate complete EMRs." · "The output must resemble real-world medical documentation."
+      </div>
+    </div>
+
+    <div class="card card-dark span2">
+      <div class="step-badge"><span class="num">3</span> Step 3</div>
+      <h2>Assign a Professional Role</h2>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;">
+        <ul class="items">
+          <li>Specify the clinical perspective</li>
+          <li>Define the level of expertise</li>
+          <li>Set the tone and writing style (formal, technical)</li>
+        </ul>
+        <div>
+          <div class="example-box">
+            <strong>Structural Example</strong>
+            "Act as a Family Physician, Internal Medicine specialist, or Clinical Physician." · "Use professional medical terminology."
+          </div>
+          <div class="tags" style="margin-top:10px;">
+            <span class="tag">Family Physician</span>
+            <span class="tag">Internal Medicine</span>
+            <span class="tag">Clinical Physician</span>
+            <span class="tag-outline tag">Formal Tone</span>
+            <span class="tag-outline tag">Medical Terminology</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- STEP 4 – DOCUMENT STRUCTURE -->
+  <div class="divider"><div class="divider-line"></div><div class="divider-label">Document Structure</div><div class="divider-line"></div></div>
+  <div class="section-title">📋 Step 4 — Define the Mandatory Document Structure</div>
+
+  <div class="grid-3" style="margin-bottom:20px;">
+    <div class="struct-block">
+      <h3>A · Cumulative Patient Profile (CPP)</h3>
+      <ul class="items">
+        <li>Full identification</li>
+        <li>Active medical problems</li>
+        <li>Past medical &amp; surgical history</li>
+        <li>Allergies and adverse reactions</li>
+        <li>Current medications</li>
+        <li>Immunization history</li>
+        <li>Family and social history</li>
+      </ul>
+    </div>
+
+    <div class="struct-block">
+      <h3>B · Encounter Notes (SOAP)</h3>
+      <ul class="items">
+        <li>Chief Complaint</li>
+        <li>History of Present Illness</li>
+        <li>Physical Examination (incl. vital signs)</li>
+        <li>Clinical Impression / Diagnosis</li>
+        <li>Management Plan</li>
+      </ul>
+      <div class="tags" style="margin-top:10px;">
+        <span class="tag">S</span><span class="tag">O</span><span class="tag">A</span><span class="tag">P</span>
+      </div>
+    </div>
+
+    <div class="struct-block">
+      <h3>C · Complementary Documentation</h3>
+      <ul class="items">
+        <li>Laboratory reports</li>
+        <li>Imaging reports</li>
+        <li>Consultation notes</li>
+        <li>Hospital discharge summaries</li>
+        <li>Informed consent</li>
+        <li>Communication logs</li>
+        <li>Referral letters</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- STEPS 5–6 -->
+  <div class="divider"><div class="divider-line"></div><div class="divider-label">Deliverables &amp; Input</div><div class="divider-line"></div></div>
+  <div class="grid" style="margin-bottom:20px;">
+
+    <div class="card">
+      <div class="step-badge"><span class="num">5</span> Step 5</div>
+      <h2>Specify Number &amp; Format of Deliverables</h2>
+      <ul class="items">
+        <li>Total number of patients</li>
+        <li>One document per patient</li>
+        <li>All compiled into individual <strong>PDF files</strong></li>
+        <li>Each PDF must contain the complete record</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <div class="step-badge"><span class="num">6</span> Step 6</div>
+      <h2>Provide Base Clinical Input for Each Patient</h2>
+      <ul class="items">
+        <li>Demographics &amp; relevant history</li>
+        <li>Presenting complaint</li>
+        <li>Key clinical findings</li>
+        <li>Required diagnostic tests &amp; prescriptions</li>
+        <li>Referrals if needed</li>
+        <li>Hospitalization requirement (≥1 case)</li>
+        <li>Discharge summary if hospitalized</li>
+        <li>Medical leave documentation if applicable</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- STEPS 7–9 -->
+  <div class="divider"><div class="divider-line"></div><div class="divider-label">Data Rules &amp; Specifications</div><div class="divider-line"></div></div>
+  <div class="section-title">⚙️ Technical Specifications</div>
+  <div class="grid-3" style="margin-bottom:20px;">
+
+    <div class="card card-accent">
+      <div class="step-badge"><span class="num">7</span> Step 7</div>
+      <h2>Synthetic Data Generation Rules</h2>
+      <ul class="items">
+        <li>Fill missing info realistically</li>
+        <li>Maintain internal clinical consistency</li>
+        <li>Only alter lab values specified as abnormal</li>
+        <li>Populate unspecified values within normal ranges</li>
+        <li>Simulate realistic imaging narratives</li>
+        <li>Simulate realistic referral letters</li>
+      </ul>
+    </div>
+
+    <div class="card card-accent">
+      <div class="step-badge"><span class="num">8</span> Step 8</div>
+      <h2>Prescription Requirements</h2>
+      <ul class="items">
+        <li>Generic drug name</li>
+        <li>Presentation (tablet, vial, etc.)</li>
+        <li>Dosage</li>
+        <li>Frequency</li>
+        <li>Quantity</li>
+        <li>Duration</li>
+        <li>Route of administration</li>
+      </ul>
+    </div>
+
+    <div class="card card-accent">
+      <div class="step-badge"><span class="num">9</span> Step 9</div>
+      <h2>Laboratory Report Requirements</h2>
+      <ul class="items">
+        <li>Include all parameters for each test</li>
+        <li>Provide units</li>
+        <li>Include reference ranges</li>
+        <li>Include both normal &amp; abnormal values</li>
+        <li>Only abnormal values = those provided in case</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- STEPS 10–12 -->
+  <div class="grid" style="margin-bottom:20px;">
+
+    <div class="card card-dark">
+      <div class="step-badge"><span class="num">10</span> Step 10</div>
+      <h2>Imaging Report Requirements</h2>
+      <ul class="items">
+        <li>Study type and technique</li>
+        <li>Normal findings</li>
+        <li>Abnormal findings (as specified)</li>
+        <li>Detailed radiological description</li>
+        <li>Final impression</li>
+      </ul>
+    </div>
+
+    <div class="card card-dark">
+      <div class="step-badge"><span class="num">11</span> Step 11</div>
+      <h2>Special Clinical Instructions</h2>
+      <ul class="items">
+        <li>At least <strong>one hospitalization case</strong></li>
+        <li>Include ICU/intermediate care details if specified</li>
+        <li>Include treatment course</li>
+        <li>Include discharge plan</li>
+        <li>Include follow-up orders</li>
+        <li>Include medical leave if required</li>
+      </ul>
+    </div>
+
+    <div class="card span2" style="border-color:var(--olive); background: linear-gradient(120deg, #e8e6d0, #dddbc8);">
+      <div class="step-badge" style="background:var(--olive);"><span class="num">12</span> Step 12</div>
+      <h2>Realism &amp; Quality Standards</h2>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;">
+        <ul class="items">
+          <li>Must resemble real-world EMR documentation</li>
+          <li>Use professional clinical language</li>
+          <li>Maintain logical medical reasoning</li>
+        </ul>
+        <ul class="items">
+          <li>Do <strong>not</strong> omit Assessment &amp; Plan</li>
+          <li>Ensure consistency across all documents</li>
+          <li>Make reports look authentic</li>
+        </ul>
+      </div>
+      <div class="tags" style="margin-top:14px;">
+        <span class="tag">Professional Language</span>
+        <span class="tag">Logical Reasoning</span>
+        <span class="tag">Cross-document Consistency</span>
+        <span class="tag-outline tag">No omissions</span>
+        <span class="tag-outline tag">Authentic formatting</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="footer">
+    <strong>🧩 Medical Synthetic Data Prompt Engineering</strong> — 12-Step Framework for Complete EMR Generation · All data described here is <em>synthetic</em> and for development/training purposes only.
+  </div>
+
+</div>
+</body>
+</html>
